@@ -1,0 +1,2738 @@
+{
+  "version": "0.1.0",
+  "generated_at": "2025-11-25T03:44:46.473Z",
+  "tag_count": 105,
+  "categories": [
+    "energy",
+    "era",
+    "genre",
+    "instruments",
+    "mood",
+    "tempo",
+    "vocals"
+  ],
+  "tags": [
+    {
+      "id": "aggressive",
+      "name": "aggressive",
+      "category": "energy",
+      "description": "A relentless and high-energy sonic assault. Shouted, growled, snarled, or rapped with force.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "harsh",
+        "abrasive",
+        "confrontational"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "intense",
+          "powerful",
+          "metal",
+          "nu metal"
+        ],
+        "avoid": [
+          "calm",
+          "soft",
+          "gentle"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "harsh",
+          "abrasive",
+          "confrontational",
+          "intense",
+          "furious"
+        ],
+        "energy_description": "a relentless and high-energy sonic assault",
+        "vocal_style": "shouted, growled, snarled, or rapped with force"
+      }
+    },
+    {
+      "id": "energetic",
+      "name": "energetic",
+      "category": "energy",
+      "description": "A driving, propulsive rhythm that invites movement",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "high-energy",
+        "fast-paced",
+        "vibrant"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "high-energy",
+          "fast-paced",
+          "vibrant",
+          "dynamic",
+          "propulsive"
+        ],
+        "energy_description": "a driving, propulsive rhythm that invites movement",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "intense",
+      "name": "intense",
+      "category": "energy",
+      "description": "A constant state of high tension and power",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "unrelenting",
+        "dramatic",
+        "urgent"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "unrelenting",
+          "dramatic",
+          "urgent",
+          "fervent",
+          "pounding"
+        ],
+        "energy_description": "a constant state of high tension and power",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "powerful",
+      "name": "powerful",
+      "category": "energy",
+      "description": "A driving and assertive presence with a wide dynamic range. Strong, confident, and resonant.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "strong",
+        "commanding",
+        "impactful"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "strong",
+          "commanding",
+          "impactful",
+          "forceful",
+          "dynamic"
+        ],
+        "energy_description": "a driving and assertive presence with a wide dynamic range",
+        "vocal_style": "strong, confident, and resonant"
+      }
+    },
+    {
+      "id": "80s",
+      "name": "80s",
+      "category": "era",
+      "description": "A vibrant and often dramatic feel with prominent synths and drums. Big, reverb-heavy, and often featuring powerful harmonies.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "bright",
+        "synthetic",
+        "gated-reverb"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "bright",
+          "synthetic",
+          "gated-reverb",
+          "nostalgic",
+          "anthemic"
+        ],
+        "energy_description": "a vibrant and often dramatic feel with prominent synths and drums",
+        "vocal_style": "big, reverb-heavy, and often featuring powerful harmonies"
+      }
+    },
+    {
+      "id": "90s",
+      "name": "90s",
+      "category": "era",
+      "description": "A raw and less-polished feel, spanning from grunge to pop-punk. Either angsty and raw or poppy and melodic, defining the decade's contrast.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "alternative",
+        "gritty",
+        "cynical"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "alternative",
+          "gritty",
+          "cynical",
+          "melodic",
+          "raw"
+        ],
+        "energy_description": "a raw and less-polished feel, spanning from grunge to pop-punk",
+        "vocal_style": "either angsty and raw or poppy and melodic, defining the decade's contrast"
+      }
+    },
+    {
+      "id": "acoustic",
+      "name": "acoustic",
+      "category": "genre",
+      "description": "Gentle and reflective. Raw and emotional.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "intimate",
+        "organic",
+        "unplugged"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "acoustic guitar",
+          "intimate",
+          "organic",
+          "folk"
+        ],
+        "avoid": [
+          "electronic",
+          "synth",
+          "distortion"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "intimate",
+          "organic",
+          "unplugged",
+          "warm",
+          "heartfelt"
+        ],
+        "energy_description": "gentle and reflective",
+        "vocal_style": "raw and emotional"
+      }
+    },
+    {
+      "id": "alternative-rock",
+      "name": "alternative rock",
+      "category": "genre",
+      "description": "A loud-quiet-loud dynamic shift. Introspective and often cynical.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "angsty",
+        "melodic",
+        "dynamic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "angsty",
+          "melodic",
+          "dynamic",
+          "introspective",
+          "distorted"
+        ],
+        "energy_description": "a loud-quiet-loud dynamic shift",
+        "vocal_style": "introspective and often cynical"
+      }
+    },
+    {
+      "id": "ambient",
+      "name": "ambient",
+      "category": "genre",
+      "description": "Slow-moving, texture-driven soundscapes with little or no percussion. Often instrumental; if present, vocals are distant, airy, and heavily processed.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "soft",
+        "evolving",
+        "texture-based"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "soft",
+          "evolving",
+          "texture-based",
+          "minimal",
+          "soothing"
+        ],
+        "energy_description": "slow-moving, texture-driven soundscapes with little or no percussion",
+        "vocal_style": "often instrumental; if present, vocals are distant, airy, and heavily processed"
+      }
+    },
+    {
+      "id": "anime",
+      "name": "anime",
+      "category": "genre",
+      "description": "A high-energy track perfect for an opening or closing sequence. Powerful and emotive, often in Japanese.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "energetic",
+        "melodic",
+        "dramatic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "energetic",
+          "melodic",
+          "dramatic",
+          "J-rock-inspired",
+          "cinematic"
+        ],
+        "energy_description": "a high-energy track perfect for an opening or closing sequence",
+        "vocal_style": "powerful and emotive, often in Japanese"
+      }
+    },
+    {
+      "id": "ballad",
+      "name": "ballad",
+      "category": "genre",
+      "description": "A slow tempo building to a powerful, emotional chorus. Clear, emotional storytelling, often with a wide dynamic range.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "slow",
+        "narrative",
+        "emotional"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "slow",
+          "narrative",
+          "emotional",
+          "sentimental",
+          "sweeping"
+        ],
+        "energy_description": "a slow tempo building to a powerful, emotional chorus",
+        "vocal_style": "clear, emotional storytelling, often with a wide dynamic range"
+      }
+    },
+    {
+      "id": "blues",
+      "name": "blues",
+      "category": "genre",
+      "description": "A cyclical, heartfelt, and storytelling rhythm. Raw, soulful, and full of grit and emotion.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "gritty",
+        "mournful",
+        "raw"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "gritty",
+          "mournful",
+          "raw",
+          "expressive",
+          "twelve-bar"
+        ],
+        "energy_description": "a cyclical, heartfelt, and storytelling rhythm",
+        "vocal_style": "raw, soulful, and full of grit and emotion"
+      }
+    },
+    {
+      "id": "bounce-drop",
+      "name": "bounce drop",
+      "category": "genre",
+      "description": "A sub-genre of electronic music defined by a specific rhythmic drop",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "high-energy",
+        "bouncy",
+        "rhythmic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "high-energy",
+          "bouncy",
+          "rhythmic",
+          "plucky",
+          "driving"
+        ],
+        "energy_description": "a sub-genre of electronic music defined by a specific rhythmic drop",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "cantonese",
+      "name": "cantonese",
+      "category": "genre",
+      "description": "Pop music from Hong Kong, often characterized by strong melodies and emotional ballads. Clear, emotive singing in the Cantonese language.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "Cantopop",
+        "melodic",
+        "ballad-heavy"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "Cantopop",
+          "melodic",
+          "ballad-heavy",
+          "dramatic"
+        ],
+        "energy_description": "pop music from Hong Kong, often characterized by strong melodies and emotional ballads",
+        "vocal_style": "clear, emotive singing in the Cantonese language"
+      }
+    },
+    {
+      "id": "classical",
+      "name": "classical",
+      "category": "genre",
+      "description": "A complex and dynamic arrangement for an orchestra, chamber ensemble, or solo instrument. Operatic, choral, and highly trained.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "symphonic",
+        "ornate",
+        "complex"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "symphonic",
+          "ornate",
+          "complex",
+          "timeless",
+          "contrapuntal"
+        ],
+        "energy_description": "a complex and dynamic arrangement for an orchestra, chamber ensemble, or solo instrument",
+        "vocal_style": "operatic, choral, and highly trained"
+      }
+    },
+    {
+      "id": "country",
+      "name": "country",
+      "category": "genre",
+      "description": "A narrative-driven and honest feel. Clear and earnest, often with a distinct twang or drawl.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "twangy",
+        "heartfelt",
+        "storytelling"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "twangy",
+          "heartfelt",
+          "storytelling",
+          "rustic"
+        ],
+        "energy_description": "a narrative-driven and honest feel",
+        "vocal_style": "clear and earnest, often with a distinct twang or drawl"
+      }
+    },
+    {
+      "id": "dance",
+      "name": "dance",
+      "category": "genre",
+      "description": "A strong, consistent beat designed for dancing",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "rhythmic",
+        "four-on-the-floor",
+        "club-ready"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "rhythmic",
+          "four-on-the-floor",
+          "club-ready",
+          "energetic"
+        ],
+        "energy_description": "a strong, consistent beat designed for dancing",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "disco",
+      "name": "disco",
+      "category": "genre",
+      "description": "An infectious, upbeat dance rhythm with lush string and horn sections. Soaring, soulful, and often featuring falsetto.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "groovy",
+        "four-on-the-floor",
+        "orchestral"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "groovy",
+          "four-on-the-floor",
+          "orchestral",
+          "danceable",
+          "lush"
+        ],
+        "energy_description": "an infectious, upbeat dance rhythm with lush string and horn sections",
+        "vocal_style": "soaring, soulful, and often featuring falsetto"
+      }
+    },
+    {
+      "id": "drum-and-bass",
+      "name": "drum and bass",
+      "category": "genre",
+      "description": "A high-speed, complex drum pattern (breakbeat) over a deep sub-bass line",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "fast",
+        "breakbeat-driven",
+        "energetic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "fast",
+          "breakbeat-driven",
+          "energetic",
+          "bass-heavy",
+          "complex"
+        ],
+        "energy_description": "a high-speed, complex drum pattern (breakbeat) over a deep sub-bass line",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "dubstep",
+      "name": "dubstep",
+      "category": "genre",
+      "description": "A half-time rhythm with a heavy focus on bass drops and complex sound design",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "bass-heavy",
+        "syncopated",
+        "wobbly"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "bass-heavy",
+          "syncopated",
+          "wobbly",
+          "dark",
+          "robotic"
+        ],
+        "energy_description": "a half-time rhythm with a heavy focus on bass drops and complex sound design",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "edm",
+      "name": "edm",
+      "category": "genre",
+      "description": "A broad term for electronic music designed for festivals and clubs, often featuring a 'drop'",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "electronic",
+        "dance",
+        "club-ready"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "electronic",
+          "dance",
+          "club-ready",
+          "high-energy",
+          "synthetic"
+        ],
+        "energy_description": "a broad term for electronic music designed for festivals and clubs, often featuring a 'drop'",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "electro",
+      "name": "electro",
+      "category": "genre",
+      "description": "A rhythmic funk sound created with purely electronic instruments",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "robotic",
+        "synthetic",
+        "808-driven"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "robotic",
+          "synthetic",
+          "808-driven",
+          "funky",
+          "digital"
+        ],
+        "energy_description": "a rhythmic funk sound created with purely electronic instruments",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "electronic",
+      "name": "electronic",
+      "category": "genre",
+      "description": "Rhythmic and evolving. Processed or sampled, often with effects.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "pulsating",
+        "synthetic",
+        "intricate"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "synth",
+          "edm",
+          "dance",
+          "futuristic",
+          "beat"
+        ],
+        "avoid": [
+          "acoustic",
+          "organic"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "pulsating",
+          "synthetic",
+          "intricate",
+          "futuristic"
+        ],
+        "energy_description": "rhythmic and evolving",
+        "vocal_style": "processed or sampled, often with effects"
+      }
+    },
+    {
+      "id": "electropop",
+      "name": "electropop",
+      "category": "genre",
+      "description": "Pop music where the primary instrumentation is synthesizers. Polished and melodic, often with some light processing.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "synth-heavy",
+        "catchy",
+        "danceable"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "synth-heavy",
+          "catchy",
+          "danceable",
+          "modern",
+          "slick"
+        ],
+        "energy_description": "pop music where the primary instrumentation is synthesizers",
+        "vocal_style": "polished and melodic, often with some light processing"
+      }
+    },
+    {
+      "id": "emo",
+      "name": "emo",
+      "category": "genre",
+      "description": "A dynamic build from quiet verses to a cathartic, loud chorus. Earnest, heartfelt, and often strained with emotion.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "emotional",
+        "confessional",
+        "melodramatic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "emotional",
+          "confessional",
+          "melodramatic",
+          "heartfelt",
+          "dynamic"
+        ],
+        "energy_description": "a dynamic build from quiet verses to a cathartic, loud chorus",
+        "vocal_style": "earnest, heartfelt, and often strained with emotion"
+      }
+    },
+    {
+      "id": "experimental",
+      "name": "experimental",
+      "category": "genre",
+      "description": "A rejection of traditional song structures and tonality",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "unconventional",
+        "avant-garde",
+        "abstract"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "unconventional",
+          "avant-garde",
+          "abstract",
+          "boundary-pushing",
+          "atonal"
+        ],
+        "energy_description": "a rejection of traditional song structures and tonality",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "folk",
+      "name": "folk",
+      "category": "genre",
+      "description": "Simple, song-centric arrangements focused on lyrics and acoustic instruments. Clear and intimate, often with a natural, unpolished tone.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "storytelling",
+        "acoustic",
+        "rootsy"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "storytelling",
+          "acoustic",
+          "rootsy",
+          "traditional",
+          "earthy"
+        ],
+        "energy_description": "simple, song-centric arrangements focused on lyrics and acoustic instruments",
+        "vocal_style": "clear and intimate, often with a natural, unpolished tone"
+      }
+    },
+    {
+      "id": "funk",
+      "name": "funk",
+      "category": "genre",
+      "description": "An infectious and highly danceable groove. Energetic and soulful, often with chanted phrases.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "groovy",
+        "rhythmic",
+        "tight"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "groovy",
+          "rhythmic",
+          "tight",
+          "syncopated",
+          "energetic"
+        ],
+        "energy_description": "an infectious and highly danceable groove",
+        "vocal_style": "energetic and soulful, often with chanted phrases"
+      }
+    },
+    {
+      "id": "gospel",
+      "name": "gospel",
+      "category": "genre",
+      "description": "A powerful build of collective joy and spirit. Powerful, soulful lead vocals with a large, dynamic choir.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "uplifting",
+        "soulful",
+        "harmonious"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "uplifting",
+          "soulful",
+          "harmonious",
+          "praise-filled",
+          "choral"
+        ],
+        "energy_description": "a powerful build of collective joy and spirit",
+        "vocal_style": "powerful, soulful lead vocals with a large, dynamic choir"
+      }
+    },
+    {
+      "id": "grunge",
+      "name": "grunge",
+      "category": "genre",
+      "description": "A raw and heavy dirge with a sense of disillusionment. Angsty, raw, and often gravelly or strained.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "gritty",
+        "sludgy",
+        "apathetic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "gritty",
+          "sludgy",
+          "apathetic",
+          "distorted",
+          "raw"
+        ],
+        "energy_description": "a raw and heavy dirge with a sense of disillusionment",
+        "vocal_style": "angsty, raw, and often gravelly or strained"
+      }
+    },
+    {
+      "id": "hard-rock",
+      "name": "hard rock",
+      "category": "genre",
+      "description": "A mid-tempo, powerful stomp driven by electric guitar riffs. Strong, raspy, and high-energy.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "anthemic",
+        "powerful",
+        "riff-based"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "anthemic",
+          "powerful",
+          "riff-based",
+          "swaggering",
+          "gritty"
+        ],
+        "energy_description": "a mid-tempo, powerful stomp driven by electric guitar riffs",
+        "vocal_style": "strong, raspy, and high-energy"
+      }
+    },
+    {
+      "id": "heavy-metal",
+      "name": "heavy metal",
+      "category": "genre",
+      "description": "A fast-paced and relentless gallop. High-pitched and soaring, often operatic.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "heavy",
+        "fast",
+        "aggressive"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "heavy",
+          "fast",
+          "aggressive",
+          "powerful",
+          "riff-driven"
+        ],
+        "energy_description": "a fast-paced and relentless gallop",
+        "vocal_style": "high-pitched and soaring, often operatic"
+      }
+    },
+    {
+      "id": "hip-hop",
+      "name": "hip hop",
+      "category": "genre",
+      "description": "A head-nodding beat with a strong groove. A smooth, conversational flow.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "groovy",
+        "sample-based",
+        "rhythmic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "groovy",
+          "sample-based",
+          "rhythmic",
+          "laid-back"
+        ],
+        "energy_description": "a head-nodding beat with a strong groove",
+        "vocal_style": "a smooth, conversational flow"
+      }
+    },
+    {
+      "id": "house",
+      "name": "house",
+      "category": "genre",
+      "description": "A hypnotic and danceable groove. Soulful, often diva-like vocal samples or hooks.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "four-on-the-floor",
+        "deep",
+        "soulful"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "four-on-the-floor",
+          "deep",
+          "soulful",
+          "hypnotic",
+          "danceable"
+        ],
+        "energy_description": "a hypnotic and danceable groove",
+        "vocal_style": "soulful, often diva-like vocal samples or hooks"
+      }
+    },
+    {
+      "id": "indie",
+      "name": "indie",
+      "category": "genre",
+      "description": "A less polished, more authentic sound than mainstream music. Varied, but often more personal and less produced; can be understated or quirky.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "independent",
+        "raw",
+        "DIY"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "independent",
+          "raw",
+          "DIY",
+          "alternative",
+          "authentic"
+        ],
+        "energy_description": "a less polished, more authentic sound than mainstream music",
+        "vocal_style": "varied, but often more personal and less produced; can be understated or quirky"
+      }
+    },
+    {
+      "id": "indie-pop",
+      "name": "indie pop",
+      "category": "genre",
+      "description": "A blend of catchy pop sensibilities with an independent, less-polished feel. Often understated, breathy, or slightly off-kilter.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "quirky",
+        "lo-fi",
+        "melodic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "quirky",
+          "lo-fi",
+          "melodic",
+          "charming",
+          "jangly"
+        ],
+        "energy_description": "a blend of catchy pop sensibilities with an independent, less-polished feel",
+        "vocal_style": "often understated, breathy, or slightly off-kilter"
+      }
+    },
+    {
+      "id": "industrial",
+      "name": "industrial",
+      "category": "genre",
+      "description": "A harsh blend of rock and electronic music with heavy, machine-like sounds",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "abrasive",
+        "mechanical",
+        "dystopian"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "abrasive",
+          "mechanical",
+          "dystopian",
+          "noisy",
+          "cold"
+        ],
+        "energy_description": "a harsh blend of rock and electronic music with heavy, machine-like sounds",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "j-pop",
+      "name": "j-pop",
+      "category": "genre",
+      "description": "A fast-paced and highly produced blend of pop, rock, and electronic styles. Clean, high-pitched, and energetic, sung in Japanese.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "hyper-melodic",
+        "upbeat",
+        "polished"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "hyper-melodic",
+          "upbeat",
+          "polished",
+          "eclectic",
+          "energetic"
+        ],
+        "energy_description": "a fast-paced and highly produced blend of pop, rock, and electronic styles",
+        "vocal_style": "clean, high-pitched, and energetic, sung in Japanese"
+      }
+    },
+    {
+      "id": "japanese",
+      "name": "japanese",
+      "category": "genre",
+      "description": "Can range from traditional folk music to modern genre fusions with a Japanese identity",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "traditional",
+        "melodic",
+        "cultural"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "traditional",
+          "melodic",
+          "cultural",
+          "eclectic"
+        ],
+        "energy_description": "can range from traditional folk music to modern genre fusions with a Japanese identity",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "jazz",
+      "name": "jazz",
+      "category": "genre",
+      "description": "A cool, sophisticated, and swinging rhythm. Smooth and soulful, with opportunities for scat improvisation.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "smooth",
+        "improvisational",
+        "complex"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "smooth",
+          "improvisational",
+          "complex",
+          "sophisticated",
+          "soulful"
+        ],
+        "energy_description": "a cool, sophisticated, and swinging rhythm",
+        "vocal_style": "smooth and soulful, with opportunities for scat improvisation"
+      }
+    },
+    {
+      "id": "k-pop",
+      "name": "k-pop",
+      "category": "genre",
+      "description": "A blend of pop, rap, and electronic sections with dynamic structure shifts. A mix of clean, precise singing and sharp, rhythmic rap verses.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "hyper-polished",
+        "high-energy",
+        "choreography-driven"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "hyper-polished",
+          "high-energy",
+          "choreography-driven",
+          "multi-faceted",
+          "slick"
+        ],
+        "energy_description": "a blend of pop, rap, and electronic sections with dynamic structure shifts",
+        "vocal_style": "a mix of clean, precise singing and sharp, rhythmic rap verses"
+      }
+    },
+    {
+      "id": "lo-fi",
+      "name": "lo-fi",
+      "category": "genre",
+      "description": "A calm and steady, non-intrusive beat, often with vinyl crackle. Often instrumental, or featuring soft, sampled vocal snippets.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "chill",
+        "nostalgic",
+        "warm"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "chill",
+          "nostalgic",
+          "warm",
+          "hazy",
+          "relaxed"
+        ],
+        "energy_description": "a calm and steady, non-intrusive beat, often with vinyl crackle",
+        "vocal_style": "often instrumental, or featuring soft, sampled vocal snippets"
+      }
+    },
+    {
+      "id": "math-rock",
+      "name": "math rock",
+      "category": "genre",
+      "description": "Rock with a focus on complex rhythms, odd time signatures, and angular melodies",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "technical",
+        "complex",
+        "asymmetrical"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "technical",
+          "complex",
+          "asymmetrical",
+          "intricate",
+          "clean-toned"
+        ],
+        "energy_description": "rock with a focus on complex rhythms, odd time signatures, and angular melodies",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "metal",
+      "name": "metal",
+      "category": "genre",
+      "description": "Driving and relentless high-intensity. Ranging from aggressive growls to soaring clean vocals.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "aggressive",
+        "heavy",
+        "distorted"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "aggressive",
+          "powerful",
+          "distortion",
+          "electric guitar",
+          "intense"
+        ],
+        "avoid": [
+          "soft",
+          "calm",
+          "acoustic"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "aggressive",
+          "heavy",
+          "distorted",
+          "powerful",
+          "technical"
+        ],
+        "energy_description": "driving and relentless high-intensity",
+        "vocal_style": "ranging from aggressive growls to soaring clean vocals"
+      }
+    },
+    {
+      "id": "mutation-funk",
+      "name": "mutation funk",
+      "category": "genre",
+      "description": "An extremely technical and unpredictable style of funk",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "experimental",
+        "complex",
+        "glitchy"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "experimental",
+          "complex",
+          "glitchy",
+          "hyper-funky",
+          "erratic"
+        ],
+        "energy_description": "an extremely technical and unpredictable style of funk",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "nu-metal",
+      "name": "nu metal",
+      "category": "genre",
+      "description": "A fusion of heavy metal riffs with hip-hop rhythms and electronic textures. A dynamic mix of rapping, screaming, and melodic singing.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "aggressive",
+        "down-tuned",
+        "syncopated"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "aggressive",
+          "down-tuned",
+          "syncopated",
+          "angsty",
+          "hybrid"
+        ],
+        "energy_description": "a fusion of heavy metal riffs with hip-hop rhythms and electronic textures",
+        "vocal_style": "a dynamic mix of rapping, screaming, and melodic singing"
+      }
+    },
+    {
+      "id": "opera",
+      "name": "opera",
+      "category": "genre",
+      "description": "A grand, theatrical performance. Highly trained, powerful, and unamplified classical singing.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "classical",
+        "dramatic",
+        "virtuosic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "classical",
+          "dramatic",
+          "virtuosic",
+          "theatrical",
+          "powerful"
+        ],
+        "energy_description": "a grand, theatrical performance",
+        "vocal_style": "highly trained, powerful, and unamplified classical singing"
+      }
+    },
+    {
+      "id": "phonk",
+      "name": "phonk",
+      "category": "genre",
+      "description": "A dark, underground style inspired by 90s Memphis rap, with heavy 808s. Chopped, slowed, and heavily processed vocal samples from old rap tapes.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "lo-fi",
+        "distorted",
+        "bass-heavy"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "lo-fi",
+          "distorted",
+          "bass-heavy",
+          "cowbell-driven",
+          "dark"
+        ],
+        "energy_description": "a dark, underground style inspired by 90s Memphis rap, with heavy 808s",
+        "vocal_style": "chopped, slowed, and heavily processed vocal samples from old rap tapes"
+      }
+    },
+    {
+      "id": "pop",
+      "name": "pop",
+      "category": "genre",
+      "description": "An uplifting build to a memorable chorus. Clean, polished, and layered.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "catchy",
+        "polished",
+        "upbeat"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "upbeat",
+          "catchy",
+          "melodic",
+          "synth",
+          "female voice"
+        ],
+        "avoid": [
+          "harsh",
+          "experimental",
+          "dark"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "catchy",
+          "polished",
+          "upbeat",
+          "melodic",
+          "radio-ready"
+        ],
+        "energy_description": "an uplifting build to a memorable chorus",
+        "vocal_style": "clean, polished, and layered"
+      }
+    },
+    {
+      "id": "pop-rock",
+      "name": "pop rock",
+      "category": "genre",
+      "description": "Combining the memorable hooks of pop with the driving energy of rock. Clean, powerful, and ready for radio.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "catchy",
+        "guitar-driven",
+        "anthemic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "catchy",
+          "guitar-driven",
+          "anthemic",
+          "polished",
+          "energetic"
+        ],
+        "energy_description": "combining the memorable hooks of pop with the driving energy of rock",
+        "vocal_style": "clean, powerful, and ready for radio"
+      }
+    },
+    {
+      "id": "progressive",
+      "name": "progressive",
+      "category": "genre",
+      "description": "Long compositions with complex time signatures and shifting movements",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "technical",
+        "complex",
+        "epic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "technical",
+          "complex",
+          "epic",
+          "multi-part",
+          "virtuosic"
+        ],
+        "energy_description": "long compositions with complex time signatures and shifting movements",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "punk",
+      "name": "punk",
+      "category": "genre",
+      "description": "A chaotic and high-octane burst. Shouted, sneering, and anti-authoritarian.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "raw",
+        "fast",
+        "rebellious"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "raw",
+          "fast",
+          "rebellious",
+          "stripped-down",
+          "energetic"
+        ],
+        "energy_description": "a chaotic and high-octane burst",
+        "vocal_style": "shouted, sneering, and anti-authoritarian"
+      }
+    },
+    {
+      "id": "r&b",
+      "name": "r&b",
+      "category": "genre",
+      "description": "A slick, polished groove with emotional weight. Silky smooth, with impressive vocal runs and harmonies.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "smooth",
+        "soulful",
+        "sensual"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "smooth",
+          "soulful",
+          "sensual",
+          "rhythmic",
+          "modern"
+        ],
+        "energy_description": "a slick, polished groove with emotional weight",
+        "vocal_style": "silky smooth, with impressive vocal runs and harmonies"
+      }
+    },
+    {
+      "id": "rap",
+      "name": "rap",
+      "category": "genre",
+      "description": "A confident and steady flow. Rhythmic and spoken, with a focus on lyrical delivery.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "lyrical",
+        "rhythmic",
+        "confident"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "lyrical",
+          "rhythmic",
+          "confident",
+          "urban",
+          "boastful"
+        ],
+        "energy_description": "a confident and steady flow",
+        "vocal_style": "rhythmic and spoken, with a focus on lyrical delivery"
+      }
+    },
+    {
+      "id": "reggae",
+      "name": "reggae",
+      "category": "genre",
+      "description": "A relaxed, swaying one-drop rhythm. Melodic and rhythmic chanting with a distinct patois.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "syncopated",
+        "laid-back",
+        "off-beat"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "syncopated",
+          "laid-back",
+          "off-beat",
+          "bass-heavy",
+          "skanking"
+        ],
+        "energy_description": "a relaxed, swaying one-drop rhythm",
+        "vocal_style": "melodic and rhythmic chanting with a distinct patois"
+      }
+    },
+    {
+      "id": "rock",
+      "name": "rock",
+      "category": "genre",
+      "description": "Raw and powerful. Powerful and anthemic.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "driving",
+        "gritty",
+        "energetic"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "guitar",
+          "electric guitar",
+          "energetic",
+          "powerful",
+          "male voice"
+        ],
+        "avoid": [
+          "electronic",
+          "synth",
+          "soft"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "driving",
+          "gritty",
+          "energetic",
+          "rebellious"
+        ],
+        "energy_description": "raw and powerful",
+        "vocal_style": "powerful and anthemic"
+      }
+    },
+    {
+      "id": "soul",
+      "name": "soul",
+      "category": "genre",
+      "description": "A deep, emotional groove powered by a tight rhythm section. Powerful, passionate, and full of feeling.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "warm",
+        "emotive",
+        "heartfelt"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "warm",
+          "emotive",
+          "heartfelt",
+          "passionate",
+          "vintage"
+        ],
+        "energy_description": "a deep, emotional groove powered by a tight rhythm section",
+        "vocal_style": "powerful, passionate, and full of feeling"
+      }
+    },
+    {
+      "id": "swing",
+      "name": "swing",
+      "category": "genre",
+      "description": "A distinctive 'swing' rhythm that makes you want to dance. Charismatic and rhythmic, in the style of a classic crooner.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "jazzy",
+        "bouncy",
+        "syncopated"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "jazzy",
+          "bouncy",
+          "syncopated",
+          "big-band",
+          "vintage"
+        ],
+        "energy_description": "a distinctive 'swing' rhythm that makes you want to dance",
+        "vocal_style": "charismatic and rhythmic, in the style of a classic crooner"
+      }
+    },
+    {
+      "id": "synthwave",
+      "name": "synthwave",
+      "category": "genre",
+      "description": "A steady, cinematic night-driving pulse. Often instrumental, but can include reverb-drenched, emotive vocals.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "retro",
+        "neon-drenched",
+        "nostalgic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "retro",
+          "neon-drenched",
+          "nostalgic",
+          "futuristic",
+          "80s-inspired"
+        ],
+        "energy_description": "a steady, cinematic night-driving pulse",
+        "vocal_style": "often instrumental, but can include reverb-drenched, emotive vocals"
+      }
+    },
+    {
+      "id": "techno",
+      "name": "techno",
+      "category": "genre",
+      "description": "A relentless and repetitive pulse. Often instrumental, or featuring sparse, processed vocal chops.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "driving",
+        "minimal",
+        "hypnotic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "driving",
+          "minimal",
+          "hypnotic",
+          "industrial",
+          "repetitive"
+        ],
+        "energy_description": "a relentless and repetitive pulse",
+        "vocal_style": "often instrumental, or featuring sparse, processed vocal chops"
+      }
+    },
+    {
+      "id": "trance",
+      "name": "trance",
+      "category": "genre",
+      "description": "A building, evolving track with a melodic breakdown and uplifting climax. Often features ethereal, reverb-drenched female vocal snippets.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "hypnotic",
+        "euphoric",
+        "melodic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "hypnotic",
+          "euphoric",
+          "melodic",
+          "progressive",
+          "arpeggiated"
+        ],
+        "energy_description": "a building, evolving track with a melodic breakdown and uplifting climax",
+        "vocal_style": "often features ethereal, reverb-drenched female vocal snippets"
+      }
+    },
+    {
+      "id": "trap",
+      "name": "trap",
+      "category": "genre",
+      "description": "Driven by deep 808 kick drums and complex, skittering hi-hat patterns. Often auto-tuned, rhythmic, with a mumble or melodic flow.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "rhythmic",
+        "bass-heavy",
+        "syncopated"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "rhythmic",
+          "bass-heavy",
+          "syncopated",
+          "modern",
+          "dark"
+        ],
+        "energy_description": "driven by deep 808 kick drums and complex, skittering hi-hat patterns",
+        "vocal_style": "often auto-tuned, rhythmic, with a mumble or melodic flow"
+      }
+    },
+    {
+      "id": "acoustic-guitar",
+      "name": "acoustic guitar",
+      "category": "instruments",
+      "description": "Providing a warm rhythmic or melodic foundation for a song",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "fingerpicked",
+        "strummed",
+        "organic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "fingerpicked",
+          "strummed",
+          "organic",
+          "intimate",
+          "unplugged"
+        ],
+        "energy_description": "providing a warm rhythmic or melodic foundation for a song",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "bass",
+      "name": "bass",
+      "category": "instruments",
+      "description": "Providing the low-end groove and harmonic anchor of a song",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "deep",
+        "rhythmic",
+        "foundational"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "deep",
+          "rhythmic",
+          "foundational",
+          "groovy",
+          "low-end"
+        ],
+        "energy_description": "providing the low-end groove and harmonic anchor of a song",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "beat",
+      "name": "beat",
+      "category": "instruments",
+      "description": "The underlying rhythmic pulse of a track, especially in electronic or hip hop music",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "rhythmic",
+        "percussive",
+        "foundational"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "rhythmic",
+          "percussive",
+          "foundational",
+          "driving"
+        ],
+        "energy_description": "the underlying rhythmic pulse of a track, especially in electronic or hip hop music",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "drum",
+      "name": "drum",
+      "category": "instruments",
+      "description": "Setting the core tempo, feel, and rhythmic foundation",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "rhythmic",
+        "driving",
+        "percussive"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "rhythmic",
+          "driving",
+          "percussive",
+          "tight",
+          "keeping-time"
+        ],
+        "energy_description": "setting the core tempo, feel, and rhythmic foundation",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "electric-guitar",
+      "name": "electric guitar",
+      "category": "instruments",
+      "description": "Carrying powerful rock riffs or soaring, melodic lead solos",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "distorted",
+        "riff-driven",
+        "searing"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "distorted",
+          "riff-driven",
+          "searing",
+          "overdriven",
+          "clean-toned"
+        ],
+        "energy_description": "carrying powerful rock riffs or soaring, melodic lead solos",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "flute",
+      "name": "flute",
+      "category": "instruments",
+      "description": "Providing a high-pitched, often beautiful and soaring melody",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "airy",
+        "melodic",
+        "wind-driven"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "airy",
+          "melodic",
+          "wind-driven",
+          "delicate",
+          "breathy"
+        ],
+        "energy_description": "providing a high-pitched, often beautiful and soaring melody",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "guitar",
+      "name": "guitar",
+      "category": "instruments",
+      "description": "Carrying the main melody, a driving rhythm, or a complex solo",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "riff-based",
+        "melodic",
+        "string-driven"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "riff-based",
+          "melodic",
+          "string-driven",
+          "plucked",
+          "strummed"
+        ],
+        "energy_description": "carrying the main melody, a driving rhythm, or a complex solo",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "orchestral",
+      "name": "orchestral",
+      "category": "instruments",
+      "description": "A full dynamic range from pianissimo to fortissimo. Operatic soprano or tenor, or a full classical choir.",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "grand",
+        "sweeping",
+        "symphonic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "grand",
+          "sweeping",
+          "symphonic",
+          "lush",
+          "majestic"
+        ],
+        "energy_description": "a full dynamic range from pianissimo to fortissimo",
+        "vocal_style": "operatic soprano or tenor, or a full classical choir"
+      }
+    },
+    {
+      "id": "piano",
+      "name": "piano",
+      "category": "instruments",
+      "description": "Ranging from sparse and sad to powerfully resonant",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "emotive",
+        "elegant",
+        "melancholic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "emotive",
+          "elegant",
+          "melancholic",
+          "delicate",
+          "percussive"
+        ],
+        "energy_description": "ranging from sparse and sad to powerfully resonant",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "synth",
+      "name": "synth",
+      "category": "instruments",
+      "description": "Providing pads, leads, bass, or complex rhythmic patterns",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "synthetic",
+        "versatile",
+        "textural"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "synthetic",
+          "versatile",
+          "textural",
+          "atmospheric",
+          "arpeggiated"
+        ],
+        "energy_description": "providing pads, leads, bass, or complex rhythmic patterns",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "violin",
+      "name": "violin",
+      "category": "instruments",
+      "description": "Carrying a beautiful, high-pitched melody or adding lush texture",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "string-driven",
+        "classical",
+        "soaring"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "string-driven",
+          "classical",
+          "soaring",
+          "emotive",
+          "lyrical"
+        ],
+        "energy_description": "carrying a beautiful, high-pitched melody or adding lush texture",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "anthemic",
+      "name": "anthemic",
+      "category": "mood",
+      "description": "A build-up to a massive, crowd-pleasing chorus. Powerful, designed for a stadium to sing along.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "big",
+        "singalong",
+        "unifying"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "big",
+          "singalong",
+          "unifying",
+          "uplifting",
+          "epic"
+        ],
+        "energy_description": "a build-up to a massive, crowd-pleasing chorus",
+        "vocal_style": "powerful, designed for a stadium to sing along"
+      }
+    },
+    {
+      "id": "atmospheric",
+      "name": "atmospheric",
+      "category": "mood",
+      "description": "A soundscape that prioritizes mood over a strong beat",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "textural",
+        "drifting",
+        "spacious"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "textural",
+          "drifting",
+          "spacious",
+          "immersive"
+        ],
+        "energy_description": "a soundscape that prioritizes mood over a strong beat",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "catchy",
+      "name": "catchy",
+      "category": "mood",
+      "description": "Focused on a melodic or rhythmic hook that sticks in your head",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "memorable",
+        "hook-filled",
+        "repetitive"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "memorable",
+          "hook-filled",
+          "repetitive",
+          "singable",
+          "infectious"
+        ],
+        "energy_description": "focused on a melodic or rhythmic hook that sticks in your head",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "chill",
+      "name": "chill",
+      "category": "mood",
+      "description": "A slow, steady, and relaxing groove. Soft and gentle, often with a relaxed delivery.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "relaxed",
+        "mellow",
+        "laid-back"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "mellow",
+          "lo-fi",
+          "ambient",
+          "smooth"
+        ],
+        "avoid": [
+          "aggressive",
+          "intense",
+          "fast"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "relaxed",
+          "mellow",
+          "laid-back",
+          "smooth",
+          "easygoing"
+        ],
+        "energy_description": "a slow, steady, and relaxing groove",
+        "vocal_style": "soft and gentle, often with a relaxed delivery"
+      }
+    },
+    {
+      "id": "cinematic",
+      "name": "cinematic",
+      "category": "mood",
+      "description": "A track that tells a story and evokes strong visual imagery",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "soundtrack-like",
+        "sweeping",
+        "atmospheric"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "soundtrack-like",
+          "sweeping",
+          "atmospheric",
+          "orchestral",
+          "grand"
+        ],
+        "energy_description": "a track that tells a story and evokes strong visual imagery",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "dark",
+      "name": "dark",
+      "category": "mood",
+      "description": "A tense and melancholic atmosphere. Deep, mournful, or menacing.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "brooding",
+        "ominous",
+        "gothic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "brooding",
+          "ominous",
+          "gothic",
+          "somber",
+          "heavy"
+        ],
+        "energy_description": "a tense and melancholic atmosphere",
+        "vocal_style": "deep, mournful, or menacing"
+      }
+    },
+    {
+      "id": "deep",
+      "name": "deep",
+      "category": "mood",
+      "description": "A focus on sub-bass frequencies and a contemplative, serious mood",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "resonant",
+        "low-frequency",
+        "thoughtful"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "resonant",
+          "low-frequency",
+          "thoughtful",
+          "immersive",
+          "profound"
+        ],
+        "energy_description": "a focus on sub-bass frequencies and a contemplative, serious mood",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "dramatic",
+      "name": "dramatic",
+      "category": "mood",
+      "description": "A build from quiet tension to an epic peak. Powerful and dynamic, ranging from a whisper to a belt.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "cinematic",
+        "sweeping",
+        "tense"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "cinematic",
+          "sweeping",
+          "tense",
+          "powerful",
+          "climactic"
+        ],
+        "energy_description": "a build from quiet tension to an epic peak",
+        "vocal_style": "powerful and dynamic, ranging from a whisper to a belt"
+      }
+    },
+    {
+      "id": "dreamy",
+      "name": "dreamy",
+      "category": "mood",
+      "description": "A gentle, floating atmosphere. Soft, washed-out, and ethereal.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "hazy",
+        "surreal",
+        "drifting"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "hazy",
+          "surreal",
+          "drifting",
+          "nostalgic",
+          "shimmering"
+        ],
+        "energy_description": "a gentle, floating atmosphere",
+        "vocal_style": "soft, washed-out, and ethereal"
+      }
+    },
+    {
+      "id": "emotional",
+      "name": "emotional",
+      "category": "mood",
+      "description": "A dynamic arc that builds to a powerful emotional peak. Full of feeling, from a gentle whisper to a powerful belt.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "expressive",
+        "moving",
+        "passionate"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "expressive",
+          "moving",
+          "passionate",
+          "heart-on-sleeve",
+          "poignant"
+        ],
+        "energy_description": "a dynamic arc that builds to a powerful emotional peak",
+        "vocal_style": "full of feeling, from a gentle whisper to a powerful belt"
+      }
+    },
+    {
+      "id": "epic",
+      "name": "epic",
+      "category": "mood",
+      "description": "A constant build to a grand climax. Soaring and operatic, often with a choir.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "massive",
+        "orchestral",
+        "heroic"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "massive",
+          "orchestral",
+          "heroic",
+          "sweeping",
+          "grand"
+        ],
+        "energy_description": "a constant build to a grand climax",
+        "vocal_style": "soaring and operatic, often with a choir"
+      }
+    },
+    {
+      "id": "ethereal",
+      "name": "ethereal",
+      "category": "mood",
+      "description": "Gentle and atmospheric. Soft, breathy, and reverb-drenched.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "airy",
+        "floating",
+        "reverb-drenched"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "airy",
+          "floating",
+          "reverb-drenched",
+          "dream-like",
+          "shimmering"
+        ],
+        "energy_description": "gentle and atmospheric",
+        "vocal_style": "soft, breathy, and reverb-drenched"
+      }
+    },
+    {
+      "id": "futuristic",
+      "name": "futuristic",
+      "category": "mood",
+      "description": "A sound palette that feels ahead of its time, often with electronic textures",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "sci-fi",
+        "synthetic",
+        "innovative"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "sci-fi",
+          "synthetic",
+          "innovative",
+          "experimental",
+          "cybernetic"
+        ],
+        "energy_description": "a sound palette that feels ahead of its time, often with electronic textures",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "groovy",
+      "name": "groovy",
+      "category": "mood",
+      "description": "Driven by a strong, repetitive bass and drum groove that makes you want to move",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "rhythmic",
+        "funky",
+        "danceable"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "rhythmic",
+          "funky",
+          "danceable",
+          "infectious",
+          "syncopated"
+        ],
+        "energy_description": "driven by a strong, repetitive bass and drum groove that makes you want to move",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "heartfelt",
+      "name": "heartfelt",
+      "category": "mood",
+      "description": "An honest and deeply emotional delivery. Sincere and full of raw feeling, without pretense.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "sincere",
+        "emotional",
+        "earnest"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "sincere",
+          "emotional",
+          "earnest",
+          "genuine",
+          "authentic"
+        ],
+        "energy_description": "an honest and deeply emotional delivery",
+        "vocal_style": "sincere and full of raw feeling, without pretense"
+      }
+    },
+    {
+      "id": "melancholic",
+      "name": "melancholic",
+      "category": "mood",
+      "description": "A gentle and sorrowful atmosphere. Subdued, mournful, and full of longing.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "wistful",
+        "somber",
+        "reflective"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "wistful",
+          "somber",
+          "reflective",
+          "downcast",
+          "plaintive"
+        ],
+        "energy_description": "a gentle and sorrowful atmosphere",
+        "vocal_style": "subdued, mournful, and full of longing"
+      }
+    },
+    {
+      "id": "mellow",
+      "name": "mellow",
+      "category": "mood",
+      "description": "A slow and easygoing pace with soft dynamics",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "gentle",
+        "calm",
+        "subdued"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "gentle",
+          "calm",
+          "subdued",
+          "relaxed",
+          "soft"
+        ],
+        "energy_description": "a slow and easygoing pace with soft dynamics",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "melodic",
+      "name": "melodic",
+      "category": "mood",
+      "description": "A focus on a strong, memorable melody line",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "tuneful",
+        "lyrical",
+        "song-like"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "tuneful",
+          "lyrical",
+          "song-like",
+          "harmonious"
+        ],
+        "energy_description": "a focus on a strong, memorable melody line",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "psychedelic",
+      "name": "psychedelic",
+      "category": "mood",
+      "description": "A swirling, otherworldly soundscape with unexpected shifts. Often washed in effects like reverb and delay, creating a sense of distance.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "trippy",
+        "mind-bending",
+        "surreal"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "trippy",
+          "mind-bending",
+          "surreal",
+          "experimental",
+          "hazy"
+        ],
+        "energy_description": "a swirling, otherworldly soundscape with unexpected shifts",
+        "vocal_style": "often washed in effects like reverb and delay, creating a sense of distance"
+      }
+    },
+    {
+      "id": "romantic",
+      "name": "romantic",
+      "category": "mood",
+      "description": "A warm and gentle mood, often building to a passionate peak. Soft, intimate, and full of heartfelt emotion.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "passionate",
+        "intimate",
+        "sentimental"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "passionate",
+          "intimate",
+          "sentimental",
+          "loving",
+          "sensual"
+        ],
+        "energy_description": "a warm and gentle mood, often building to a passionate peak",
+        "vocal_style": "soft, intimate, and full of heartfelt emotion"
+      }
+    },
+    {
+      "id": "sad",
+      "name": "sad",
+      "category": "mood",
+      "description": "A slow and sorrowful pace. Sorrowful and full of pathos.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "mournful",
+        "somber",
+        "tearful"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "melancholic",
+          "slow",
+          "emotional",
+          "ballad"
+        ],
+        "avoid": [
+          "upbeat",
+          "energetic",
+          "happy"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "mournful",
+          "somber",
+          "tearful",
+          "melancholy",
+          "heartbreaking"
+        ],
+        "energy_description": "a slow and sorrowful pace",
+        "vocal_style": "sorrowful and full of pathos"
+      }
+    },
+    {
+      "id": "smooth",
+      "name": "smooth",
+      "category": "mood",
+      "description": "A laid-back and sophisticated groove. Soft, breathy, and effortless.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "silky",
+        "polished",
+        "relaxed"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "silky",
+          "polished",
+          "relaxed",
+          "sensual",
+          "fluid"
+        ],
+        "energy_description": "a laid-back and sophisticated groove",
+        "vocal_style": "soft, breathy, and effortless"
+      }
+    },
+    {
+      "id": "upbeat",
+      "name": "upbeat",
+      "category": "mood",
+      "description": "A bright and positive feel-good tempo",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "cheerful",
+        "lively",
+        "optimistic"
+      ],
+      "co_occurrence": {
+        "strong": [
+          "energetic",
+          "fast",
+          "positive",
+          "happy"
+        ],
+        "avoid": [
+          "sad",
+          "melancholic",
+          "dark",
+          "slow"
+        ]
+      },
+      "metadata": {
+        "adjectives": [
+          "cheerful",
+          "lively",
+          "optimistic",
+          "bouncy",
+          "bright"
+        ],
+        "energy_description": "a bright and positive feel-good tempo",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "uplifting",
+      "name": "uplifting",
+      "category": "mood",
+      "description": "A build towards a euphoric and optimistic climax. Soaring and inspirational, often with layered harmonies.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "inspiring",
+        "hopeful",
+        "positive"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "inspiring",
+          "hopeful",
+          "positive",
+          "soaring",
+          "joyful"
+        ],
+        "energy_description": "a build towards a euphoric and optimistic climax",
+        "vocal_style": "soaring and inspirational, often with layered harmonies"
+      }
+    },
+    {
+      "id": "fast",
+      "name": "fast",
+      "category": "tempo",
+      "description": "A quick pace that creates excitement and energy",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "high-tempo",
+        "rapid",
+        "allegro"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "high-tempo",
+          "rapid",
+          "allegro",
+          "frantic",
+          "driving"
+        ],
+        "energy_description": "a quick pace that creates excitement and energy",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "slow",
+      "name": "slow",
+      "category": "tempo",
+      "description": "A relaxed tempo, often creating a calm or sad mood",
+      "usage": "style",
+      "synonyms": [],
+      "examples": [
+        "leisurely",
+        "unhurried",
+        "gentle"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "leisurely",
+          "unhurried",
+          "gentle",
+          "adagio",
+          "largo"
+        ],
+        "energy_description": "a relaxed tempo, often creating a calm or sad mood",
+        "vocal_style": null
+      }
+    },
+    {
+      "id": "female-singer",
+      "name": "female singer",
+      "category": "vocals",
+      "description": "A track led by a single female performer. The singular focus of the song's emotional delivery.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "solo",
+        "frontwoman",
+        "diva"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "solo",
+          "frontwoman",
+          "diva",
+          "songstress"
+        ],
+        "energy_description": "a track led by a single female performer",
+        "vocal_style": "the singular focus of the song's emotional delivery"
+      }
+    },
+    {
+      "id": "female-vocals",
+      "name": "female vocals",
+      "category": "vocals",
+      "description": "A focus on female vocal parts, including leads and harmonies. Often implies multiple female singers or layered vocal tracks.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "feminine",
+        "harmonized",
+        "layered"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "feminine",
+          "harmonized",
+          "layered",
+          "soprano"
+        ],
+        "energy_description": "a focus on female vocal parts, including leads and harmonies",
+        "vocal_style": "often implies multiple female singers or layered vocal tracks"
+      }
+    },
+    {
+      "id": "female-voice",
+      "name": "female voice",
+      "category": "vocals",
+      "description": "A female-fronted vocal performance. Can range from breathy and delicate to a powerful belt.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "feminine",
+        "soprano",
+        "alto"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "feminine",
+          "soprano",
+          "alto",
+          "ethereal"
+        ],
+        "energy_description": "a female-fronted vocal performance",
+        "vocal_style": "can range from breathy and delicate to a powerful belt"
+      }
+    },
+    {
+      "id": "male-vocals",
+      "name": "male vocals",
+      "category": "vocals",
+      "description": "A focus on male vocal parts, including leads and harmonies. Often implies multiple male singers or layered vocal tracks.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "masculine",
+        "harmonized",
+        "layered"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "masculine",
+          "harmonized",
+          "layered",
+          "baritone"
+        ],
+        "energy_description": "a focus on male vocal parts, including leads and harmonies",
+        "vocal_style": "often implies multiple male singers or layered vocal tracks"
+      }
+    },
+    {
+      "id": "male-voice",
+      "name": "male voice",
+      "category": "vocals",
+      "description": "A male-fronted vocal performance. Can range from soft and gentle to powerful and aggressive.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "masculine",
+        "resonant",
+        "baritone"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "masculine",
+          "resonant",
+          "baritone",
+          "tenor"
+        ],
+        "energy_description": "a male-fronted vocal performance",
+        "vocal_style": "can range from soft and gentle to powerful and aggressive"
+      }
+    },
+    {
+      "id": "vocaloid",
+      "name": "vocaloid",
+      "category": "vocals",
+      "description": "Vocals provided by singing synthesizer software. Perfectly pitched, often fast-paced and distinctly non-human.",
+      "usage": "both",
+      "synonyms": [],
+      "examples": [
+        "synthetic",
+        "digital",
+        "anime-style"
+      ],
+      "co_occurrence": null,
+      "metadata": {
+        "adjectives": [
+          "synthetic",
+          "digital",
+          "anime-style",
+          "futuristic",
+          "high-pitched"
+        ],
+        "energy_description": "vocals provided by singing synthesizer software",
+        "vocal_style": "perfectly pitched, often fast-paced and distinctly non-human"
+      }
+    }
+  ]
+}

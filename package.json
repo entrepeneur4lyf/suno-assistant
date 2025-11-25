@@ -9,7 +9,9 @@
     "preview": "vite preview",
     "tauri": "tauri",
     "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build"
+    "tauri:build": "tauri build",
+    "build:tags": "node scripts/build-tag-library.js",
+    "prebuild": "npm run build:tags"
   },
   "dependencies": {
     "@tauri-apps/api": "^2.2.0",
