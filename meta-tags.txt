@@ -1,0 +1,847 @@
+1. **Tag Universe v1.0** – a structured, fairly exhaustive list of tags, explicitly split into:
+
+   * style-prompt tags (for Style / global instructions)
+   * lyric/structure tags (for Lyrics / sections)
+2. **Mini-PRD Guide** – a concise outline you can use to draft the actual PRD for the prompt generator.
+
+You can paste this straight into a doc and start turning it into JSON/DB tables.
+
+---
+
+## 1. Tag Universe v1.0 (Data-First)
+
+### 1.0 Legend: Where tags are meant to be used
+
+* **S** = Style field / global description
+* **L** = Lyrics field / section labels / inline cues
+* **B** = Both (safe in either place)
+
+You don't *have* to use bracket syntax in the Style field, but I'll write tags as `TagName` (you can wrap them in `[]` or just use text).
+
+---
+
+### 1. STRUCTURE TAGS (L)
+
+These are primarily for the **Lyrics** field or section titles.
+
+**Sections & form**
+
+* `Intro`
+* `Verse`
+* `Verse 1`
+* `Verse 2`
+* `Pre-Chorus`
+* `Chorus`
+* `Chorus x2`
+* `Post-Chorus`
+* `Hook`
+* `Refrain`
+* `Bridge`
+* `Breakdown`
+* `Build-up`
+* `Drop`
+* `Instrumental Break`
+* `Solo Section`
+* `Guitar Solo`
+* `Bass Solo`
+* `Drum Solo`
+* `Outro`
+* `Coda`
+* `Tag Ending` (short repeated phrase at end)
+
+**Usage pattern (example)**
+
+```text
+[Intro]
+[Verse 1]
+[Pre-Chorus]
+[Chorus]
+[Bridge]
+[Chorus]
+[Outro]
+```
+
+---
+
+### 2. TEMPO, METER & FEEL TAGS (B)
+
+**Basic tempo words (S/B)**
+
+* `Slow Tempo`
+* `Medium Tempo`
+* `Fast Tempo`
+* `Very Fast Tempo`
+* `Upbeat`
+* `Ballad Tempo`
+
+**Classical tempo terms (S/B)**
+
+* `Largo`
+* `Adagio`
+* `Andante`
+* `Moderato`
+* `Allegro`
+* `Presto`
+* `Rubato` (flexible tempo)
+
+**Time signatures (S/B)**
+
+* `4/4 Time`
+* `3/4 Time`
+* `6/8 Time`
+* `12/8 Time`
+* `5/4 Time`
+* `7/8 Time`
+* `Odd Meter`
+* `Polyrhythm`
+* `Cross-rhythm`
+* `Anacrusis` / `Pickup Notes`
+
+**Rhythmic feel & groove (S/B)**
+
+* `Straight Feel`
+* `Swing Feel`
+* `Shuffle Feel`
+* `Half-time Feel`
+* `Double-time Feel`
+* `Latin Feel`
+* `Reggaeton Groove`
+* `Afrobeat Groove`
+* `Funk Groove`
+* `Backbeat`
+* `Off-beat`
+* `Syncopated`
+* `Driving Rhythm`
+* `Four-on-the-floor`
+* `Laid-back Groove`
+* `In the Pocket`
+
+**Loop & cue (S)**
+
+* `Loop-friendly`
+* `Seamless Loop`
+* `Loopable 16-bar Section`
+* `Short Intro Loop`
+
+---
+
+### 3. MOOD & ATMOSPHERE TAGS (B)
+
+**Core emotional moods**
+
+* `Happy`
+* `Joyful`
+* `Uplifting`
+* `Hopeful`
+* `Triumphant`
+* `Euphoric`
+* `Melancholic`
+* `Sad`
+* `Bittersweet`
+* `Nostalgic`
+* `Heartbroken`
+* `Lonely`
+* `Reflective`
+* `Introspective`
+* `Thoughtful`
+* `Contemplative`
+* `Dreamy`
+* `Romantic`
+* `Dark`
+* `Brooding`
+* `Ominous`
+* `Mysterious`
+* `Haunting`
+* `Tense`
+* `Angry`
+* `Aggressive`
+* `Defiant`
+* `Rebellious`
+* `Intense`
+* `Peaceful`
+* `Calm`
+* `Relaxed`
+* `Chill`
+* `Meditative`
+* `Soothing`
+
+**Atmospheric / vibe**
+
+* `Atmospheric`
+* `Ethereal`
+* `Floating`
+* `Airy`
+* `Cinematic`
+* `Epic`
+* `Grand`
+* `Heroic`
+* `Intimate Atmosphere`
+* `Lo-fi Atmosphere`
+* `Dark Atmosphere`
+* `Ambient Atmosphere`
+* `Spacious`
+* `Wide`
+* `Gritty`
+* `Gloomy`
+
+---
+
+### 4. ENERGY & INTENSITY TAGS (B)
+
+* `Low Energy`
+* `Medium Energy`
+* `High Energy`
+* `Very High Energy`
+* `Building Energy`
+* `Explosive Energy`
+* `Energetic`
+* `Driving`
+* `Relaxed Energy`
+* `Chill Energy`
+* `Subtle`
+* `Gentle`
+* `Soft`
+* `Powerful`
+* `Heavy`
+* `Dynamic`
+* `Static` (little change)
+
+---
+
+### 5. GENRE & STYLE TAGS (S)
+
+**Main genres**
+
+* `Pop`
+* `Rock`
+* `Metal`
+* `Punk`
+* `Indie`
+* `Alternative`
+* `Folk`
+* `Country`
+* `Blues`
+* `Jazz`
+* `Soul`
+* `Funk`
+* `R&B`
+* `Hip-Hop`
+* `Rap`
+* `Trap`
+* `Drill`
+* `Reggae`
+* `Dancehall`
+* `Afrobeat`
+* `Latin`
+* `Reggaeton`
+* `Electronic`
+* `EDM`
+* `House`
+* `Techno`
+* `Trance`
+* `Dubstep`
+* `Drum and Bass`
+* `Lo-fi`
+* `Ambient`
+* `Cinematic`
+* `Soundtrack`
+* `Classical`
+* `Orchestral`
+* `Singer-Songwriter`
+* `Gospel`
+* `Worship`
+* `K-Pop`
+* `J-Pop`
+
+**Common subgenres / hybrids**
+
+* `Alternative Rock`
+* `Indie Rock`
+* `Pop Rock`
+* `Hard Rock`
+* `Pop Punk`
+* `Emo`
+* `Post-Rock`
+* `Progressive Rock`
+* `Heavy Metal`
+* `Progressive Metal`
+* `Metalcore`
+* `Death Metal`
+* `Djent`
+* `Post-Metal`
+* `Boom Bap`
+* `Trap Soul`
+* `Lo-fi Hip-Hop`
+* `Cloud Rap`
+* `Drill Trap`
+* `Deep House`
+* `Progressive House`
+* `Electro House`
+* `Tech House`
+* `Future Bass`
+* `Melodic Techno`
+* `Synthwave`
+* `Retrowave`
+* `Chillwave`
+* `Vaporwave`
+* `Cyberpunk`
+* `Dark Electronic`
+* `Industrial`
+* `Indie Folk`
+* `Country Pop`
+* `Americana`
+* `Bluegrass`
+* `Neo-Soul`
+* `Modern R&B`
+* `Motown Soul`
+
+---
+
+### 6. INSTRUMENT & ENSEMBLE TAGS (S/B)
+
+**Rhythm section**
+
+* `Drums`
+* `Acoustic Drums`
+* `Electronic Drums`
+* `Drum Machine`
+* `808s`
+* `TR-808`
+* `TR-909`
+* `Percussion`
+* `Hand Percussion`
+* `Shaker`
+* `Tambourine`
+* `Conga`
+* `Bongo`
+* `Cajon`
+* `Timpani`
+* `Taiko Drums`
+
+**Guitars & bass**
+
+* `Electric Guitar`
+* `Electric Guitar (Clean)`
+* `Electric Guitar (Crunch)`
+* `Electric Guitar (Distorted)`
+* `Acoustic Guitar`
+* `Nylon Guitar`
+* `12-String Guitar`
+* `Slide Guitar`
+* `Banjo`
+* `Mandolin`
+* `Bass Guitar`
+* `Fretless Bass`
+* `Synth Bass`
+* `Sub Bass`
+
+**Keys & synths**
+
+* `Piano`
+* `Grand Piano`
+* `Upright Piano`
+* `Prepared Piano`
+* `Electric Piano`
+* `Rhodes`
+* `Wurlitzer`
+* `Organ`
+* `Hammond Organ`
+* `Synthesizer`
+* `Analog Synth`
+* `FM Synth`
+* `Modular Synth`
+* `Synth Lead`
+* `Synth Pluck`
+* `Arpeggiated Synth`
+* `Pad`
+* `Warm Pad`
+* `Ambient Pad`
+* `Choir Pad`
+* `String Pad`
+
+**Orchestral / acoustic**
+
+* `Violin`
+* `Viola`
+* `Cello`
+* `Double Bass`
+* `String Section`
+* `Flute`
+* `Clarinet`
+* `Oboe`
+* `Bassoon`
+* `Woodwinds`
+* `Trumpet`
+* `Trombone`
+* `French Horn`
+* `Brass Section`
+* `Harp`
+* `Glockenspiel`
+* `Marimba`
+* `Xylophone`
+
+**Color & ensemble**
+
+* `Saxophone`
+* `Tenor Sax`
+* `Alto Sax`
+* `Harmonica`
+* `Accordion`
+* `Horns`
+* `Choir`
+* `Gospel Choir`
+* `Children's Choir`
+
+---
+
+### 7. VOCAL & VOICE TAGS (S/B)
+
+**Role & presence**
+
+* `Male Vocals`
+* `Female Vocals`
+* `Vocal Duet`
+* `Lead Vocals`
+* `Background Vocals`
+* `Backing Vocals`
+* `Harmonies`
+* `Group Vocals`
+* `Gang Vocals`
+* `Choir`
+* `Gospel Choir`
+* `A Cappella`
+* `Call and Response`
+* `Narrator` (for spoken-word lead)
+* `Whispers` (whisper FX layer)
+
+**Tone & character**
+
+* `Smooth Vocals`
+* `Soulful Vocals`
+* `Gentle Vocals`
+* `Soft Vocals`
+* `Intimate Vocals`
+* `Breathy Vocals`
+* `Whispered Vocals`
+* `Close-mic Vocals`
+* `Powerful Vocals`
+* `Belting Vocals`
+* `Big Chorus Vocals`
+* `Anthemic Vocals`
+* `Raspy Voice`
+* `Gritty Vocals`
+* `Gravelly Voice`
+* `Warm Voice`
+* `Bright Voice`
+* `Dark Voice`
+* `Clear Voice`
+* `Clean Pop Vocal`
+* `Deep Voice`
+* `High Voice`
+* `Baritone Vocal`
+* `Tenor Vocal`
+* `Crooning`
+* `Spoken Word`
+* `Storytelling Vocal`
+
+**Style & technique**
+
+* `Rap Vocals`
+* `Rapping`
+* `Fast Rap`
+* `Melodic Rap`
+* `Falsetto`
+* `Head Voice`
+* `Chest Voice`
+* `Mixed Voice`
+* `Vibrato`
+* `Gentle Vibrato`
+* `Controlled Vibrato`
+* `No Vibrato`
+* `Melisma`
+* `Vocal Runs`
+* `Ad-libs`
+* `Staccato Vocals`
+* `Legato Vocals`
+* `Scat Singing`
+* `Screamed Vocals`
+* `Harsh Vocals`
+* `Growls`
+* `Fry Screams`
+* `Vocoder` (robotic processed voice)
+
+---
+
+### 8. PRODUCTION, MIX & FX TAGS (S/B)
+
+**Space & ambience**
+
+* `Room Reverb`
+* `Hall Reverb`
+* `Plate Reverb`
+* `Spring Reverb`
+* `Cathedral Reverb`
+* `Reverb Heavy`
+* `Dry Mix`
+* `No Reverb`
+* `Distant`
+* `Close and Dry`
+* `Ambient Soundscape`
+
+**Delay & echo**
+
+* `Delay`
+* `Echo`
+* `Slapback Delay`
+* `Ping Pong Delay`
+* `Tape Delay`
+
+**Dynamics & tone**
+
+* `Compression`
+* `Heavily Compressed`
+* `Punchy Mix`
+* `Tight Drums`
+* `Sidechain Compression`
+* `Pumping`
+* `EQd Bright`
+* `EQd Dark`
+* `Warm Mix`
+* `Scooped Mids`
+* `Saturation`
+* `Tape Saturation`
+* `Overdrive`
+* `Distortion`
+* `Fuzz`
+* `Lo-fi`
+* `Bitcrushed`
+
+**Modulation & movement**
+
+* `Chorus Effect`
+* `Wide Chorus`
+* `Flanger`
+* `Phaser`
+* `Tremolo`
+* `Auto-pan`
+* `Rotary Speaker`
+* `Filter Sweep`
+* `Low-pass Filter`
+* `High-pass Filter`
+
+**Stereo & density**
+
+* `Wide Stereo`
+* `Super Wide`
+* `Mono`
+* `Narrow Stereo`
+* `Wall of Sound`
+* `Dense Mix`
+* `Minimalist Mix`
+* `Sparse Arrangement`
+
+**Special FX & textures**
+
+* `Vinyl Crackle`
+* `Tape Hiss`
+* `Record Scratch`
+* `Glitch Effects`
+* `Stutter Edits`
+* `Granular Effects`
+* `Reverse Reverb`
+* `Reverse Cymbals`
+* `Risers`
+* `Impacts`
+* `Whooshes`
+* `Swells`
+* `Bleep`
+* `Siren`
+* `Field-recording`
+
+---
+
+### 9. HARMONY, KEY & PROGRESSION TAGS (S)
+
+**Keys & modes**
+
+* `C Major`, `G Major`, `D Major`, `A Major`, `E Major`, `F Major`, `B♭ Major`
+* `A Minor`, `E Minor`, `D Minor`, `B Minor`, `F♯ Minor`
+* `Dorian Mode`
+* `Phrygian Mode`
+* `Mixolydian Mode`
+* `Lydian Mode`
+* `Pentatonic Scale`
+* `Blues Scale`
+* `Chromatic Scale`
+* `Whole Tone Scale`
+
+**Harmony flavor**
+
+* `Major Harmony`
+* `Minor Harmony`
+* `Modal Harmony`
+* `Jazz Harmony`
+* `Extended Chords`
+* `Altered Chords`
+* `Suspended Chords`
+* `Power Chords`
+* `Dissonant Harmony`
+* `Consonant Harmony`
+* `12-bar Blues`
+
+**Progression hints**
+
+* `I–V–vi–IV`
+* `vi–IV–I–V`
+* `I–vi–IV–V`
+* `ii–V–I`
+* `I–VII–♭VI–♭VII`
+
+---
+
+### 10. ARRANGEMENT & TEXTURE TECHNIQUE TAGS (B)
+
+* `Call and Response`
+* `Counterpoint`
+* `Layering`
+* `Stacked Vocals`
+* `Unison Lines`
+* `Octave Doubles`
+* `Canon`
+* `Ostinato`
+* `Pedal Point`
+* `Minimalist`
+* `Maximalist`
+* `Monophonic Texture`
+* `Homophonic Texture`
+* `Polyphonic Texture`
+* `Crescendo`
+* `Diminuendo`
+* `Forte`
+* `Piano`
+* `Fortissimo`
+* `Pianissimo`
+* `Sforzando`
+
+---
+
+### 11. AMBIENCE / SFX TAGS (S/B)
+
+**Natural ambience**
+
+* `Rain`
+* `Thunder`
+* `Wind`
+* `Ocean Waves`
+* `Fire Crackling`
+* `Forest Ambience`
+* `Birdsong`
+
+**Urban / human ambience**
+
+* `Traffic Noise`
+* `City Ambience`
+* `Subway Ambience`
+* `Crowd Noise`
+* `Crowd Cheering`
+* `Stadium Ambience`
+* `Footsteps`
+* `Door Slams`
+* `Typing`
+* `Phone Ringing`
+* `Factory Noise`
+* `Machinery`
+
+---
+
+### 12. LYRIC-LEVEL DIRECTIVE TAGS / PHRASES (L)
+
+These aren't always bracketed tags – often **plain English directives** at the top of the Lyrics prompt.
+
+**Top-of-prompt directives**
+
+* `OBJECTIVE: full song / hook / loop / bed / spoken-word`
+* `VOICE: male/female, age, tone`
+* `MOOD & STORY: ...`
+* `STYLE: ... (for lyrics-only mode)`
+* `OUTPUT: lyrics only, no chords or production notes`
+* `Do not change any words inside brackets`
+* `Sing exactly as written inside [Chorus]`
+* `Repeat chorus exactly each time`
+
+**Constraint phrases**
+
+* `Verse lines: 7–9 syllables each`
+* `Chorus lines: 9–11 syllables each`
+* `Rhyme scheme: ABAB`
+* `Rhyme scheme: AABB`
+* `Internal rhyme on lines 2 & 4`
+* `Show elongated vowels with hyphens (lo-o-ove)`
+* `Use natural conversational phrasing`
+* `Avoid clichés like "I'll miss you" / "broken heart"`
+
+**Inline performance cues**
+
+Used after lines or in parentheses:
+
+* `(breathy)`
+* `(belt)`
+* `(whispered)`
+* `(spoken)`
+* `(falsetto)`
+* `(growl)`
+* `(soft)`
+* `(hold)`
+* `(breath)`
+
+---
+
+### 13. UTILITY / NEGATIVE TAGS & PHRASES (S/B)
+
+Used often in **Exclude Styles** or in plain text.
+
+* `instrumental only, no vocals`
+* `no drums`
+* `no 808s`
+* `no electric guitars`
+* `no synths`
+* `no distortion`
+* `clean mix, no reverb`
+* `vocals only, no backing track`
+* `keep lyrics exactly as written`
+* `repeat chorus exactly each time`
+* `subtle background vocals only`
+* `no vocal ad-libs`
+* `no key changes`
+
+---
+
+## 2. Concise Guide to a PRD for the Prompt Tool
+
+Now, using that tag universe, here's a **PRD skeleton** you can build on.
+
+### 2.1 Product Summary
+
+> **Product**: Suno Prompt Generator
+> **Goal**: Given structured user choices (genre, mood, instruments, structure, vocal persona, constraints), generate **optimized Style and Lyrics prompts** that dramatically improve control over Suno v5 compared to the native UI.
+
+### 2.2 Users & Use Cases
+
+**Primary users**
+
+* Creators who know *what they want* but not how to phrase prompts.
+* Power users wanting reproducible "recipes" for genres / moods.
+* You (and others) wanting a **one-click scaffolding** for PRD-quality results.
+
+**Key use cases**
+
+1. "I want a **full song** in [style X] with [mood Y], [structure Z]."
+2. "I want a **hook-only** 30–40s clip with very specific vocals."
+3. "I need a **loop/bed** with seamless looping and no vocals."
+4. "I have **lyrics already**, and I just want the tool to wrap them with structure & constraints."
+5. "I want to **save & reuse** style presets across multiple songs."
+
+### 2.3 Functional Requirements (short)
+
+1. **Tag selection UI**
+
+   * Browse tags by category (genre, mood, energy, instruments, vocals, FX, harmony, ambience).
+   * Limit per category (e.g., max 2 genres, 1–2 moods, 3 primary instruments).
+   * Supports search ("distorted guitar", "gospel choir").
+
+2. **Song blueprint presets**
+
+   * Full song preset (Verse / Pre / Chorus / Bridge / Outro).
+   * Hook-only preset.
+   * Loop/bed preset.
+   * Spoken-word preset.
+   * Each preset sets default structure + typical constraints.
+
+3. **Advanced controls**
+
+   * Set **Weirdness** and **Style Influence**.
+   * Exclude styles/instruments (plain text and tagged form).
+   * Vocal gender & role.
+   * Lyrics-mode:
+
+     * AI writes lyrics.
+     * User provides lyrics, tool only wraps & constrains.
+
+4. **Prompt generation**
+
+   * Generate **Style prompt** (tag-rich but readable).
+   * Generate **Lyrics prompt**:
+
+     * For AI-lyrics: structured instructions + empty sections.
+     * For user-lyrics: inserts `[Verse]`, `[Chorus]`, duplicates chorus, adds "do not change" wrappers.
+
+5. **Preset management**
+
+   * Save/load **Style Presets**.
+   * Save full **Prompt Recipes** (style + structure + constraints).
+
+6. **Conflict checks**
+
+   * Warn on contradictions (e.g., `High Energy` + `Peaceful` in same section).
+   * Suggest moving moods to verses vs chorus for contrast.
+
+### 2.4 Data Model (core)
+
+**Tag**
+
+* `id` (machine readable: `melancholic`)
+* `label` (`Melancholic`)
+* `category` (`mood`, `genre`, `instrument`, `vocal_tone`, etc.)
+* `field` (`style`, `lyrics`, `both`)
+* `description` (short human hint)
+* `aliases` (optional: `["sad", "bittersweet"]`)
+* `incompatible_with` (optional: `[ "Euphoric" ]`)
+* `max_per_song` (optional hint for UI)
+
+**SongPromptConfig** (as I sketched earlier):
+
+* `objective`
+* `style`
+* `tempo`
+* `harmony`
+* `instrumentation`
+* `vocals`
+* `structure.sections`
+* `advanced` (weirdness, style influence, exclude)
+* `lyrics_constraints`
+
+The PRD just needs to define this clearly; implementation can be JSON or DB.
+
+### 2.5 Non-Functional & UX Notes
+
+* **Speed**: prompt generation is instant (pure string templating).
+* **Explainability**: show which tags map to which parts of the final text.
+* **Export**:
+
+  * Copyable blocks: `Style`, `Lyrics`, `Advanced Settings`.
+  * Optional JSON export of the config for future automation.
+
+### 2.6 "Definition of Done" for v1
+
+* At least:
+
+  * 1 full **Tag Catalog** implemented (like the one above).
+  * 3 blueprints: Full Song, Hook, Loop.
+  * 2 prompt templates: Style, Lyrics.
+  * Ability to generate a prompt for:
+
+    * "Full indie pop song"
+    * "EDM drop loop"
+    * "Lyrics-only country ballad"
+* Manual sanity tests: feed generated prompts into Suno and verify:
+
+  * Structure is followed.
+  * Instruments and mood generally match.
+  * Chorus repetition & lyric fidelity improved vs naive prompts.
+
+---
+
+If you want, next step I can:
+
+* Turn the tag universe into a **starter `tags.json`** schema (with categories and fields), or
+* Draft the **actual text templates** for Style + Lyrics prompts, wired to that `SongPromptConfig` data model so you can go straight from "form data → prompt string."

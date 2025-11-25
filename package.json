@@ -10,7 +10,9 @@
     "tauri": "tauri",
     "tauri:dev": "tauri dev",
     "tauri:build": "tauri build",
-    "build:tags": "node scripts/build-tag-library.js",
+    "build:tags": "node scripts/parse-meta-tags.js && node scripts/build-tag-library.js",
+    "build:tags:meta": "node scripts/parse-meta-tags.js",
+    "build:tags:personality": "node scripts/build-tag-library.js",
     "prebuild": "npm run build:tags"
   },
   "dependencies": {

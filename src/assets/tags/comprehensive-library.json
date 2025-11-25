@@ -1,0 +1,5103 @@
+{
+  "version": "1.0.0",
+  "source": "meta-tags.txt",
+  "generated_at": "2025-11-25T03:52:19.969Z",
+  "tag_count": 508,
+  "categories": [
+    "ambience",
+    "arrangement",
+    "directive",
+    "energy",
+    "genre",
+    "harmony",
+    "instruments",
+    "mood",
+    "production",
+    "structure",
+    "tempo",
+    "utility",
+    "vocals"
+  ],
+  "tags": [
+    {
+      "id": "birdsong",
+      "name": "Birdsong",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Birdsong - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "city-ambience",
+      "name": "City Ambience",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "City Ambience - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "crowd-cheering",
+      "name": "Crowd Cheering",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Crowd Cheering - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "crowd-noise",
+      "name": "Crowd Noise",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Crowd Noise - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "door-slams",
+      "name": "Door Slams",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Door Slams - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "factory-noise",
+      "name": "Factory Noise",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Factory Noise - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fire-crackling",
+      "name": "Fire Crackling",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Fire Crackling - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "footsteps",
+      "name": "Footsteps",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Footsteps - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "forest-ambience",
+      "name": "Forest Ambience",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Forest Ambience - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "machinery",
+      "name": "Machinery",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Machinery - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ocean-waves",
+      "name": "Ocean Waves",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Ocean Waves - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "phone-ringing",
+      "name": "Phone Ringing",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Phone Ringing - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Rain - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "stadium-ambience",
+      "name": "Stadium Ambience",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Stadium Ambience - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "subway-ambience",
+      "name": "Subway Ambience",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Subway Ambience - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "thunder",
+      "name": "Thunder",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Thunder - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "traffic-noise",
+      "name": "Traffic Noise",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Traffic Noise - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "typing",
+      "name": "Typing",
+      "category": "ambience",
+      "subcategory": "Urban / human ambience",
+      "description": "Typing - Urban / human ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "category": "ambience",
+      "subcategory": "Natural ambience",
+      "description": "Wind - Natural ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "canon",
+      "name": "Canon",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Canon",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "counterpoint",
+      "name": "Counterpoint",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Counterpoint",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "crescendo",
+      "name": "Crescendo",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Crescendo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "diminuendo",
+      "name": "Diminuendo",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Diminuendo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "forte",
+      "name": "Forte",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Forte",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fortissimo",
+      "name": "Fortissimo",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Fortissimo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "homophonic-texture",
+      "name": "Homophonic Texture",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Homophonic Texture",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "layering",
+      "name": "Layering",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Layering",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "maximalist",
+      "name": "Maximalist",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Maximalist",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "minimalist",
+      "name": "Minimalist",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Minimalist",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "monophonic-texture",
+      "name": "Monophonic Texture",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Monophonic Texture",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "octave-doubles",
+      "name": "Octave Doubles",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Octave Doubles",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ostinato",
+      "name": "Ostinato",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Ostinato",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pedal-point",
+      "name": "Pedal Point",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Pedal Point",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pianissimo",
+      "name": "Pianissimo",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Pianissimo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "polyphonic-texture",
+      "name": "Polyphonic Texture",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Polyphonic Texture",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sforzando",
+      "name": "Sforzando",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Sforzando",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "stacked-vocals",
+      "name": "Stacked Vocals",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Stacked Vocals",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "unison-lines",
+      "name": "Unison Lines",
+      "category": "arrangement",
+      "subcategory": null,
+      "description": "Unison Lines",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "",
+      "name": "",
+      "category": "directive",
+      "subcategory": "Inline performance cues",
+      "description": " - Inline performance cues",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "do-not-change-any-words-inside-brackets",
+      "name": "Do not change any words inside brackets",
+      "category": "directive",
+      "subcategory": "Top-of-prompt directives",
+      "description": "Do not change any words inside brackets - Top-of-prompt directives",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "internal-rhyme-on-lines-2-4",
+      "name": "Internal rhyme on lines 2 & 4",
+      "category": "directive",
+      "subcategory": "Constraint phrases",
+      "description": "Internal rhyme on lines 2 & 4 - Constraint phrases",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "repeat-chorus-exactly-each-time",
+      "name": "Repeat chorus exactly each time",
+      "category": "directive",
+      "subcategory": "Top-of-prompt directives",
+      "description": "Repeat chorus exactly each time - Top-of-prompt directives",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "show-elongated-vowels-with-hyphens",
+      "name": "Show elongated vowels with hyphens",
+      "category": "directive",
+      "subcategory": "Constraint phrases",
+      "description": "Show elongated vowels with hyphens - Constraint phrases",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sing-exactly-as-written-inside-chorus",
+      "name": "Sing exactly as written inside [Chorus]",
+      "category": "directive",
+      "subcategory": "Top-of-prompt directives",
+      "description": "Sing exactly as written inside [Chorus] - Top-of-prompt directives",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "use-natural-conversational-phrasing",
+      "name": "Use natural conversational phrasing",
+      "category": "directive",
+      "subcategory": "Constraint phrases",
+      "description": "Use natural conversational phrasing - Constraint phrases",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "building-energy",
+      "name": "Building Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Building Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chill-energy",
+      "name": "Chill Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Chill Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "driving",
+      "name": "Driving",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Driving",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dynamic",
+      "name": "Dynamic",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Dynamic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "energetic",
+      "name": "Energetic",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Energetic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "explosive-energy",
+      "name": "Explosive Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Explosive Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gentle",
+      "name": "Gentle",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Gentle",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "heavy",
+      "name": "Heavy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Heavy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "high-energy",
+      "name": "High Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "High Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "low-energy",
+      "name": "Low Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Low Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "medium-energy",
+      "name": "Medium Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Medium Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "powerful",
+      "name": "Powerful",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Powerful",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "relaxed-energy",
+      "name": "Relaxed Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Relaxed Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soft",
+      "name": "Soft",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Soft",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "static",
+      "name": "Static",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Static",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "subtle",
+      "name": "Subtle",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Subtle",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "very-high-energy",
+      "name": "Very High Energy",
+      "category": "energy",
+      "subcategory": null,
+      "description": "Very High Energy",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "afrobeat",
+      "name": "Afrobeat",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Afrobeat - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "alternative",
+      "name": "Alternative",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Alternative - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "alternative-rock",
+      "name": "Alternative Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Alternative Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ambient",
+      "name": "Ambient",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Ambient - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "americana",
+      "name": "Americana",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Americana - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bluegrass",
+      "name": "Bluegrass",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Bluegrass - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "blues",
+      "name": "Blues",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Blues - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "boom-bap",
+      "name": "Boom Bap",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Boom Bap - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chillwave",
+      "name": "Chillwave",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Chillwave - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "classical",
+      "name": "Classical",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Classical - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cloud-rap",
+      "name": "Cloud Rap",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Cloud Rap - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "country",
+      "name": "Country",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Country - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "country-pop",
+      "name": "Country Pop",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Country Pop - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Cyberpunk - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dancehall",
+      "name": "Dancehall",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Dancehall - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dark-electronic",
+      "name": "Dark Electronic",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Dark Electronic - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "death-metal",
+      "name": "Death Metal",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Death Metal - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "deep-house",
+      "name": "Deep House",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Deep House - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "djent",
+      "name": "Djent",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Djent - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Drill - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drill-trap",
+      "name": "Drill Trap",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Drill Trap - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drum-and-bass",
+      "name": "Drum and Bass",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Drum and Bass - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dubstep",
+      "name": "Dubstep",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Dubstep - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "edm",
+      "name": "EDM",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "EDM - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "electro-house",
+      "name": "Electro House",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Electro House - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "electronic",
+      "name": "Electronic",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Electronic - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "emo",
+      "name": "Emo",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Emo - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "folk",
+      "name": "Folk",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Folk - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "funk",
+      "name": "Funk",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Funk - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "future-bass",
+      "name": "Future Bass",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Future Bass - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gospel",
+      "name": "Gospel",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Gospel - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hard-rock",
+      "name": "Hard Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Hard Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-metal",
+      "name": "Heavy Metal",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Heavy Metal - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hip-hop",
+      "name": "Hip-Hop",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Hip-Hop - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "house",
+      "name": "House",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "House - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "indie",
+      "name": "Indie",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Indie - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "indie-folk",
+      "name": "Indie Folk",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Indie Folk - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "indie-rock",
+      "name": "Indie Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Indie Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "industrial",
+      "name": "Industrial",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Industrial - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "j-pop",
+      "name": "J-Pop",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "J-Pop - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "jazz",
+      "name": "Jazz",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Jazz - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "k-pop",
+      "name": "K-Pop",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "K-Pop - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "latin",
+      "name": "Latin",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Latin - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lo-fi",
+      "name": "Lo-fi",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Lo-fi - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lo-fi-hip-hop",
+      "name": "Lo-fi Hip-Hop",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Lo-fi Hip-Hop - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "melodic-techno",
+      "name": "Melodic Techno",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Melodic Techno - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "metal",
+      "name": "Metal",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Metal - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "metalcore",
+      "name": "Metalcore",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Metalcore - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "modern-rb",
+      "name": "Modern R&B",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Modern R&B - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "motown-soul",
+      "name": "Motown Soul",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Motown Soul - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "neo-soul",
+      "name": "Neo-Soul",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Neo-Soul - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "orchestral",
+      "name": "Orchestral",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Orchestral - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pop",
+      "name": "Pop",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Pop - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pop-punk",
+      "name": "Pop Punk",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Pop Punk - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pop-rock",
+      "name": "Pop Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Pop Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "post-metal",
+      "name": "Post-Metal",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Post-Metal - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "post-rock",
+      "name": "Post-Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Post-Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "progressive-house",
+      "name": "Progressive House",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Progressive House - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "progressive-metal",
+      "name": "Progressive Metal",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Progressive Metal - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "progressive-rock",
+      "name": "Progressive Rock",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Progressive Rock - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "punk",
+      "name": "Punk",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Punk - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rb",
+      "name": "R&B",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "R&B - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rap",
+      "name": "Rap",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Rap - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reggae",
+      "name": "Reggae",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Reggae - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reggaeton",
+      "name": "Reggaeton",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Reggaeton - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "retrowave",
+      "name": "Retrowave",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Retrowave - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Rock - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "singer-songwriter",
+      "name": "Singer-Songwriter",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Singer-Songwriter - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soul",
+      "name": "Soul",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Soul - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soundtrack",
+      "name": "Soundtrack",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Soundtrack - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "synthwave",
+      "name": "Synthwave",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Synthwave - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tech-house",
+      "name": "Tech House",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Tech House - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "techno",
+      "name": "Techno",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Techno - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "trance",
+      "name": "Trance",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Trance - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "trap",
+      "name": "Trap",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Trap - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "trap-soul",
+      "name": "Trap Soul",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Trap Soul - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vaporwave",
+      "name": "Vaporwave",
+      "category": "genre",
+      "subcategory": "Common subgenres / hybrids",
+      "description": "Vaporwave - Common subgenres / hybrids",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "worship",
+      "name": "Worship",
+      "category": "genre",
+      "subcategory": "Main genres",
+      "description": "Worship - Main genres",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "12-bar-blues",
+      "name": "12-bar Blues",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "12-bar Blues - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "a-minor",
+      "name": "A Minor",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "A Minor - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "altered-chords",
+      "name": "Altered Chords",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Altered Chords - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "blues-scale",
+      "name": "Blues Scale",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Blues Scale - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "c-major",
+      "name": "C Major",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "C Major - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chromatic-scale",
+      "name": "Chromatic Scale",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Chromatic Scale - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "consonant-harmony",
+      "name": "Consonant Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Consonant Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dissonant-harmony",
+      "name": "Dissonant Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Dissonant Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dorian-mode",
+      "name": "Dorian Mode",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Dorian Mode - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "extended-chords",
+      "name": "Extended Chords",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Extended Chords - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ivviiv",
+      "name": "I–V–vi–IV",
+      "category": "harmony",
+      "subcategory": "Progression hints",
+      "description": "I–V–vi–IV - Progression hints",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "iviivv",
+      "name": "I–vi–IV–V",
+      "category": "harmony",
+      "subcategory": "Progression hints",
+      "description": "I–vi–IV–V - Progression hints",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "iviivivii",
+      "name": "I–VII–♭VI–♭VII",
+      "category": "harmony",
+      "subcategory": "Progression hints",
+      "description": "I–VII–♭VI–♭VII - Progression hints",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "iivi",
+      "name": "ii–V–I",
+      "category": "harmony",
+      "subcategory": "Progression hints",
+      "description": "ii–V–I - Progression hints",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "jazz-harmony",
+      "name": "Jazz Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Jazz Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lydian-mode",
+      "name": "Lydian Mode",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Lydian Mode - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "major-harmony",
+      "name": "Major Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Major Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "minor-harmony",
+      "name": "Minor Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Minor Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "mixolydian-mode",
+      "name": "Mixolydian Mode",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Mixolydian Mode - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "modal-harmony",
+      "name": "Modal Harmony",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Modal Harmony - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pentatonic-scale",
+      "name": "Pentatonic Scale",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Pentatonic Scale - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "phrygian-mode",
+      "name": "Phrygian Mode",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Phrygian Mode - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "power-chords",
+      "name": "Power Chords",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Power Chords - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "suspended-chords",
+      "name": "Suspended Chords",
+      "category": "harmony",
+      "subcategory": "Harmony flavor",
+      "description": "Suspended Chords - Harmony flavor",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "viiviv",
+      "name": "vi–IV–I–V",
+      "category": "harmony",
+      "subcategory": "Progression hints",
+      "description": "vi–IV–I–V - Progression hints",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "whole-tone-scale",
+      "name": "Whole Tone Scale",
+      "category": "harmony",
+      "subcategory": "Keys & modes",
+      "description": "Whole Tone Scale - Keys & modes",
+      "usage": "style",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "12-string-guitar",
+      "name": "12-String Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "12-String Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "808s",
+      "name": "808s",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "808s - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "accordion",
+      "name": "Accordion",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Accordion - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "acoustic-drums",
+      "name": "Acoustic Drums",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Acoustic Drums - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "acoustic-guitar",
+      "name": "Acoustic Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Acoustic Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "alto-sax",
+      "name": "Alto Sax",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Alto Sax - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ambient-pad",
+      "name": "Ambient Pad",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Ambient Pad - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "analog-synth",
+      "name": "Analog Synth",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Analog Synth - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "arpeggiated-synth",
+      "name": "Arpeggiated Synth",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Arpeggiated Synth - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "banjo",
+      "name": "Banjo",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Banjo - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bass-guitar",
+      "name": "Bass Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Bass Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bassoon",
+      "name": "Bassoon",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Bassoon - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bongo",
+      "name": "Bongo",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Bongo - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "brass-section",
+      "name": "Brass Section",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Brass Section - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cajon",
+      "name": "Cajon",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Cajon - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cello",
+      "name": "Cello",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Cello - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "childrens-choir",
+      "name": "Children's Choir",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Children's Choir - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "choir",
+      "name": "Choir",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Choir - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "choir-pad",
+      "name": "Choir Pad",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Choir Pad - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "clarinet",
+      "name": "Clarinet",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Clarinet - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "conga",
+      "name": "Conga",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Conga - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "double-bass",
+      "name": "Double Bass",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Double Bass - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drum-machine",
+      "name": "Drum Machine",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Drum Machine - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drums",
+      "name": "Drums",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Drums - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "electric-guitar",
+      "name": "Electric Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Electric Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "electric-piano",
+      "name": "Electric Piano",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Electric Piano - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "electronic-drums",
+      "name": "Electronic Drums",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Electronic Drums - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "flute",
+      "name": "Flute",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Flute - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fm-synth",
+      "name": "FM Synth",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "FM Synth - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "french-horn",
+      "name": "French Horn",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "French Horn - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fretless-bass",
+      "name": "Fretless Bass",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Fretless Bass - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "glockenspiel",
+      "name": "Glockenspiel",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Glockenspiel - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gospel-choir",
+      "name": "Gospel Choir",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Gospel Choir - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "grand-piano",
+      "name": "Grand Piano",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Grand Piano - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hammond-organ",
+      "name": "Hammond Organ",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Hammond Organ - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hand-percussion",
+      "name": "Hand Percussion",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Hand Percussion - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "harmonica",
+      "name": "Harmonica",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Harmonica - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "harp",
+      "name": "Harp",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Harp - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "horns",
+      "name": "Horns",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Horns - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "mandolin",
+      "name": "Mandolin",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Mandolin - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "marimba",
+      "name": "Marimba",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Marimba - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "modular-synth",
+      "name": "Modular Synth",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Modular Synth - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "nylon-guitar",
+      "name": "Nylon Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Nylon Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "oboe",
+      "name": "Oboe",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Oboe - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "organ",
+      "name": "Organ",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Organ - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pad",
+      "name": "Pad",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Pad - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "percussion",
+      "name": "Percussion",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Percussion - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "piano",
+      "name": "Piano",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Piano - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "prepared-piano",
+      "name": "Prepared Piano",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Prepared Piano - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rhodes",
+      "name": "Rhodes",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Rhodes - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "saxophone",
+      "name": "Saxophone",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Saxophone - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "shaker",
+      "name": "Shaker",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Shaker - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "slide-guitar",
+      "name": "Slide Guitar",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Slide Guitar - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "string-pad",
+      "name": "String Pad",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "String Pad - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "string-section",
+      "name": "String Section",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "String Section - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sub-bass",
+      "name": "Sub Bass",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Sub Bass - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "synth-bass",
+      "name": "Synth Bass",
+      "category": "instruments",
+      "subcategory": "Guitars & bass",
+      "description": "Synth Bass - Guitars & bass",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "synth-lead",
+      "name": "Synth Lead",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Synth Lead - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "synth-pluck",
+      "name": "Synth Pluck",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Synth Pluck - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "synthesizer",
+      "name": "Synthesizer",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Synthesizer - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "taiko-drums",
+      "name": "Taiko Drums",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Taiko Drums - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tambourine",
+      "name": "Tambourine",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Tambourine - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tenor-sax",
+      "name": "Tenor Sax",
+      "category": "instruments",
+      "subcategory": "Color & ensemble",
+      "description": "Tenor Sax - Color & ensemble",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "timpani",
+      "name": "Timpani",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "Timpani - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tr-808",
+      "name": "TR-808",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "TR-808 - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tr-909",
+      "name": "TR-909",
+      "category": "instruments",
+      "subcategory": "Rhythm section",
+      "description": "TR-909 - Rhythm section",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "trombone",
+      "name": "Trombone",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Trombone - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Trumpet - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "upright-piano",
+      "name": "Upright Piano",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Upright Piano - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "viola",
+      "name": "Viola",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Viola - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "violin",
+      "name": "Violin",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Violin - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "warm-pad",
+      "name": "Warm Pad",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Warm Pad - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "woodwinds",
+      "name": "Woodwinds",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Woodwinds - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wurlitzer",
+      "name": "Wurlitzer",
+      "category": "instruments",
+      "subcategory": "Keys & synths",
+      "description": "Wurlitzer - Keys & synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "xylophone",
+      "name": "Xylophone",
+      "category": "instruments",
+      "subcategory": "Orchestral / acoustic",
+      "description": "Xylophone - Orchestral / acoustic",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "aggressive",
+      "name": "Aggressive",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Aggressive - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "airy",
+      "name": "Airy",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Airy - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ambient-atmosphere",
+      "name": "Ambient Atmosphere",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Ambient Atmosphere - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "angry",
+      "name": "Angry",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Angry - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "atmospheric",
+      "name": "Atmospheric",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Atmospheric - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bittersweet",
+      "name": "Bittersweet",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Bittersweet - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "brooding",
+      "name": "Brooding",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Brooding - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "calm",
+      "name": "Calm",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Calm - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chill",
+      "name": "Chill",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Chill - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cinematic",
+      "name": "Cinematic",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Cinematic - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "contemplative",
+      "name": "Contemplative",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Contemplative - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Dark - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dark-atmosphere",
+      "name": "Dark Atmosphere",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Dark Atmosphere - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "defiant",
+      "name": "Defiant",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Defiant - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dreamy",
+      "name": "Dreamy",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Dreamy - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "epic",
+      "name": "Epic",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Epic - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ethereal",
+      "name": "Ethereal",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Ethereal - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "euphoric",
+      "name": "Euphoric",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Euphoric - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "floating",
+      "name": "Floating",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Floating - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gloomy",
+      "name": "Gloomy",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Gloomy - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "grand",
+      "name": "Grand",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Grand - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gritty",
+      "name": "Gritty",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Gritty - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "happy",
+      "name": "Happy",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Happy - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "haunting",
+      "name": "Haunting",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Haunting - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "heartbroken",
+      "name": "Heartbroken",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Heartbroken - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "heroic",
+      "name": "Heroic",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Heroic - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hopeful",
+      "name": "Hopeful",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Hopeful - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "intense",
+      "name": "Intense",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Intense - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "intimate-atmosphere",
+      "name": "Intimate Atmosphere",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Intimate Atmosphere - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "introspective",
+      "name": "Introspective",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Introspective - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "joyful",
+      "name": "Joyful",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Joyful - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lo-fi-atmosphere",
+      "name": "Lo-fi Atmosphere",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Lo-fi Atmosphere - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lonely",
+      "name": "Lonely",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Lonely - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "meditative",
+      "name": "Meditative",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Meditative - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "melancholic",
+      "name": "Melancholic",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Melancholic - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "mysterious",
+      "name": "Mysterious",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Mysterious - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "nostalgic",
+      "name": "Nostalgic",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Nostalgic - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ominous",
+      "name": "Ominous",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Ominous - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "peaceful",
+      "name": "Peaceful",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Peaceful - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rebellious",
+      "name": "Rebellious",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Rebellious - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reflective",
+      "name": "Reflective",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Reflective - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "relaxed",
+      "name": "Relaxed",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Relaxed - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "romantic",
+      "name": "Romantic",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Romantic - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sad",
+      "name": "Sad",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Sad - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soothing",
+      "name": "Soothing",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Soothing - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "spacious",
+      "name": "Spacious",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Spacious - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tense",
+      "name": "Tense",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Tense - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "thoughtful",
+      "name": "Thoughtful",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Thoughtful - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "triumphant",
+      "name": "Triumphant",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Triumphant - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "uplifting",
+      "name": "Uplifting",
+      "category": "mood",
+      "subcategory": "Core emotional moods",
+      "description": "Uplifting - Core emotional moods",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wide",
+      "name": "Wide",
+      "category": "mood",
+      "subcategory": "Atmospheric / vibe",
+      "description": "Wide - Atmospheric / vibe",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ambient-soundscape",
+      "name": "Ambient Soundscape",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Ambient Soundscape - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "auto-pan",
+      "name": "Auto-pan",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Auto-pan - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bitcrushed",
+      "name": "Bitcrushed",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Bitcrushed - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bleep",
+      "name": "Bleep",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Bleep - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cathedral-reverb",
+      "name": "Cathedral Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Cathedral Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chorus-effect",
+      "name": "Chorus Effect",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Chorus Effect - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "close-and-dry",
+      "name": "Close and Dry",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Close and Dry - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "compression",
+      "name": "Compression",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Compression - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "delay",
+      "name": "Delay",
+      "category": "production",
+      "subcategory": "Delay & echo",
+      "description": "Delay - Delay & echo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dense-mix",
+      "name": "Dense Mix",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Dense Mix - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "distant",
+      "name": "Distant",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Distant - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "distortion",
+      "name": "Distortion",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Distortion - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dry-mix",
+      "name": "Dry Mix",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Dry Mix - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "echo",
+      "name": "Echo",
+      "category": "production",
+      "subcategory": "Delay & echo",
+      "description": "Echo - Delay & echo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "eqd-bright",
+      "name": "EQd Bright",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "EQd Bright - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "eqd-dark",
+      "name": "EQd Dark",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "EQd Dark - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "field-recording",
+      "name": "Field-recording",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Field-recording - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "filter-sweep",
+      "name": "Filter Sweep",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Filter Sweep - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "flanger",
+      "name": "Flanger",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Flanger - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fuzz",
+      "name": "Fuzz",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Fuzz - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "glitch-effects",
+      "name": "Glitch Effects",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Glitch Effects - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "granular-effects",
+      "name": "Granular Effects",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Granular Effects - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hall-reverb",
+      "name": "Hall Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Hall Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "heavily-compressed",
+      "name": "Heavily Compressed",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Heavily Compressed - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "high-pass-filter",
+      "name": "High-pass Filter",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "High-pass Filter - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "impacts",
+      "name": "Impacts",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Impacts - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "low-pass-filter",
+      "name": "Low-pass Filter",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Low-pass Filter - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "minimalist-mix",
+      "name": "Minimalist Mix",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Minimalist Mix - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "mono",
+      "name": "Mono",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Mono - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "narrow-stereo",
+      "name": "Narrow Stereo",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Narrow Stereo - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-reverb",
+      "name": "No Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "No Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "overdrive",
+      "name": "Overdrive",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Overdrive - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "phaser",
+      "name": "Phaser",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Phaser - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ping-pong-delay",
+      "name": "Ping Pong Delay",
+      "category": "production",
+      "subcategory": "Delay & echo",
+      "description": "Ping Pong Delay - Delay & echo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "plate-reverb",
+      "name": "Plate Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Plate Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pumping",
+      "name": "Pumping",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Pumping - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "punchy-mix",
+      "name": "Punchy Mix",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Punchy Mix - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "record-scratch",
+      "name": "Record Scratch",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Record Scratch - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reverb-heavy",
+      "name": "Reverb Heavy",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Reverb Heavy - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reverse-cymbals",
+      "name": "Reverse Cymbals",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Reverse Cymbals - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reverse-reverb",
+      "name": "Reverse Reverb",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Reverse Reverb - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "risers",
+      "name": "Risers",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Risers - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "room-reverb",
+      "name": "Room Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Room Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rotary-speaker",
+      "name": "Rotary Speaker",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Rotary Speaker - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "saturation",
+      "name": "Saturation",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Saturation - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "scooped-mids",
+      "name": "Scooped Mids",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Scooped Mids - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sidechain-compression",
+      "name": "Sidechain Compression",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Sidechain Compression - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "siren",
+      "name": "Siren",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Siren - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "slapback-delay",
+      "name": "Slapback Delay",
+      "category": "production",
+      "subcategory": "Delay & echo",
+      "description": "Slapback Delay - Delay & echo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "sparse-arrangement",
+      "name": "Sparse Arrangement",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Sparse Arrangement - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "spring-reverb",
+      "name": "Spring Reverb",
+      "category": "production",
+      "subcategory": "Space & ambience",
+      "description": "Spring Reverb - Space & ambience",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "stutter-edits",
+      "name": "Stutter Edits",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Stutter Edits - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "super-wide",
+      "name": "Super Wide",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Super Wide - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "swells",
+      "name": "Swells",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Swells - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tape-delay",
+      "name": "Tape Delay",
+      "category": "production",
+      "subcategory": "Delay & echo",
+      "description": "Tape Delay - Delay & echo",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tape-hiss",
+      "name": "Tape Hiss",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Tape Hiss - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tape-saturation",
+      "name": "Tape Saturation",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Tape Saturation - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tight-drums",
+      "name": "Tight Drums",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Tight Drums - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tremolo",
+      "name": "Tremolo",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Tremolo - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vinyl-crackle",
+      "name": "Vinyl Crackle",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Vinyl Crackle - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wall-of-sound",
+      "name": "Wall of Sound",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Wall of Sound - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "warm-mix",
+      "name": "Warm Mix",
+      "category": "production",
+      "subcategory": "Dynamics & tone",
+      "description": "Warm Mix - Dynamics & tone",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "whooshes",
+      "name": "Whooshes",
+      "category": "production",
+      "subcategory": "Special FX & textures",
+      "description": "Whooshes - Special FX & textures",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wide-chorus",
+      "name": "Wide Chorus",
+      "category": "production",
+      "subcategory": "Modulation & movement",
+      "description": "Wide Chorus - Modulation & movement",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "wide-stereo",
+      "name": "Wide Stereo",
+      "category": "production",
+      "subcategory": "Stereo & density",
+      "description": "Wide Stereo - Stereo & density",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bass-solo",
+      "name": "Bass Solo",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Bass Solo - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "breakdown",
+      "name": "Breakdown",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Breakdown - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bridge",
+      "name": "Bridge",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Bridge - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "build-up",
+      "name": "Build-up",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Build-up - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Chorus - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chorus-x2",
+      "name": "Chorus x2",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Chorus x2 - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "coda",
+      "name": "Coda",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Coda - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drop",
+      "name": "Drop",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Drop - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "drum-solo",
+      "name": "Drum Solo",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Drum Solo - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "guitar-solo",
+      "name": "Guitar Solo",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Guitar Solo - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "hook",
+      "name": "Hook",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Hook - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "instrumental-break",
+      "name": "Instrumental Break",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Instrumental Break - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "intro",
+      "name": "Intro",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Intro - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "outro",
+      "name": "Outro",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Outro - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "post-chorus",
+      "name": "Post-Chorus",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Post-Chorus - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "pre-chorus",
+      "name": "Pre-Chorus",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Pre-Chorus - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "refrain",
+      "name": "Refrain",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Refrain - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "solo-section",
+      "name": "Solo Section",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Solo Section - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tag-ending",
+      "name": "Tag Ending",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Tag Ending - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "verse",
+      "name": "Verse",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Verse - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "verse-1",
+      "name": "Verse 1",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Verse 1 - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "verse-2",
+      "name": "Verse 2",
+      "category": "structure",
+      "subcategory": "Sections & form",
+      "description": "Verse 2 - Sections & form",
+      "usage": "lyrics",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "adagio",
+      "name": "Adagio",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Adagio - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "afrobeat-groove",
+      "name": "Afrobeat Groove",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Afrobeat Groove - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "allegro",
+      "name": "Allegro",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Allegro - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "anacrusis",
+      "name": "Anacrusis",
+      "category": "tempo",
+      "subcategory": "Time signatures (S/B)",
+      "description": "Anacrusis - Time signatures (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "andante",
+      "name": "Andante",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Andante - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "backbeat",
+      "name": "Backbeat",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Backbeat - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ballad-tempo",
+      "name": "Ballad Tempo",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Ballad Tempo - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "cross-rhythm",
+      "name": "Cross-rhythm",
+      "category": "tempo",
+      "subcategory": "Time signatures (S/B)",
+      "description": "Cross-rhythm - Time signatures (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "double-time-feel",
+      "name": "Double-time Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Double-time Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "driving-rhythm",
+      "name": "Driving Rhythm",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Driving Rhythm - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fast-tempo",
+      "name": "Fast Tempo",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Fast Tempo - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "four-on-the-floor",
+      "name": "Four-on-the-floor",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Four-on-the-floor - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "funk-groove",
+      "name": "Funk Groove",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Funk Groove - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "half-time-feel",
+      "name": "Half-time Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Half-time Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "in-the-pocket",
+      "name": "In the Pocket",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "In the Pocket - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "laid-back-groove",
+      "name": "Laid-back Groove",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Laid-back Groove - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "largo",
+      "name": "Largo",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Largo - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "latin-feel",
+      "name": "Latin Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Latin Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "loop-friendly",
+      "name": "Loop-friendly",
+      "category": "tempo",
+      "subcategory": "Loop & cue (S)",
+      "description": "Loop-friendly - Loop & cue (S)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "loopable-16-bar-section",
+      "name": "Loopable 16-bar Section",
+      "category": "tempo",
+      "subcategory": "Loop & cue (S)",
+      "description": "Loopable 16-bar Section - Loop & cue (S)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "medium-tempo",
+      "name": "Medium Tempo",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Medium Tempo - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "moderato",
+      "name": "Moderato",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Moderato - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "odd-meter",
+      "name": "Odd Meter",
+      "category": "tempo",
+      "subcategory": "Time signatures (S/B)",
+      "description": "Odd Meter - Time signatures (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "off-beat",
+      "name": "Off-beat",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Off-beat - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "polyrhythm",
+      "name": "Polyrhythm",
+      "category": "tempo",
+      "subcategory": "Time signatures (S/B)",
+      "description": "Polyrhythm - Time signatures (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "presto",
+      "name": "Presto",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Presto - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "reggaeton-groove",
+      "name": "Reggaeton Groove",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Reggaeton Groove - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rubato",
+      "name": "Rubato",
+      "category": "tempo",
+      "subcategory": "Classical tempo terms (S/B)",
+      "description": "Rubato - Classical tempo terms (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "seamless-loop",
+      "name": "Seamless Loop",
+      "category": "tempo",
+      "subcategory": "Loop & cue (S)",
+      "description": "Seamless Loop - Loop & cue (S)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "short-intro-loop",
+      "name": "Short Intro Loop",
+      "category": "tempo",
+      "subcategory": "Loop & cue (S)",
+      "description": "Short Intro Loop - Loop & cue (S)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "shuffle-feel",
+      "name": "Shuffle Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Shuffle Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "slow-tempo",
+      "name": "Slow Tempo",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Slow Tempo - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "straight-feel",
+      "name": "Straight Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Straight Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "swing-feel",
+      "name": "Swing Feel",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Swing Feel - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "syncopated",
+      "name": "Syncopated",
+      "category": "tempo",
+      "subcategory": "Rhythmic feel & groove (S/B)",
+      "description": "Syncopated - Rhythmic feel & groove (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "upbeat",
+      "name": "Upbeat",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Upbeat - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "very-fast-tempo",
+      "name": "Very Fast Tempo",
+      "category": "tempo",
+      "subcategory": "Basic tempo words (S/B)",
+      "description": "Very Fast Tempo - Basic tempo words (S/B)",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "advanced",
+      "name": "advanced",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "advanced - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "aliases",
+      "name": "aliases",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "aliases - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "category",
+      "name": "category",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "category - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "clean-mix-no-reverb",
+      "name": "clean mix, no reverb",
+      "category": "utility",
+      "subcategory": null,
+      "description": "clean mix, no reverb",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "description",
+      "name": "description",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "description - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "field",
+      "name": "field",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "field - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "harmony",
+      "name": "harmony",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "harmony - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "id",
+      "name": "id",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "id - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "incompatiblewith",
+      "name": "incompatible_with",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "incompatible_with - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "instrumental-only-no-vocals",
+      "name": "instrumental only, no vocals",
+      "category": "utility",
+      "subcategory": null,
+      "description": "instrumental only, no vocals",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "instrumentation",
+      "name": "instrumentation",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "instrumentation - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "keep-lyrics-exactly-as-written",
+      "name": "keep lyrics exactly as written",
+      "category": "utility",
+      "subcategory": null,
+      "description": "keep lyrics exactly as written",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "label",
+      "name": "label",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "label - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lyricsconstraints",
+      "name": "lyrics_constraints",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "lyrics_constraints - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "maxpersong",
+      "name": "max_per_song",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "max_per_song - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-808s",
+      "name": "no 808s",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no 808s",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-distortion",
+      "name": "no distortion",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no distortion",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-drums",
+      "name": "no drums",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no drums",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-electric-guitars",
+      "name": "no electric guitars",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no electric guitars",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-key-changes",
+      "name": "no key changes",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no key changes",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-synths",
+      "name": "no synths",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no synths",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-vocal-ad-libs",
+      "name": "no vocal ad-libs",
+      "category": "utility",
+      "subcategory": null,
+      "description": "no vocal ad-libs",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "objective",
+      "name": "objective",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "objective - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "structuresections",
+      "name": "structure.sections",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "structure.sections - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "style",
+      "name": "style",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "style - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "subtle-background-vocals-only",
+      "name": "subtle background vocals only",
+      "category": "utility",
+      "subcategory": null,
+      "description": "subtle background vocals only",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tempo",
+      "name": "tempo",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "tempo - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vocals",
+      "name": "vocals",
+      "category": "utility",
+      "subcategory": "Tag",
+      "description": "vocals - Tag",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vocals-only-no-backing-track",
+      "name": "vocals only, no backing track",
+      "category": "utility",
+      "subcategory": null,
+      "description": "vocals only, no backing track",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "a-cappella",
+      "name": "A Cappella",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "A Cappella - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "ad-libs",
+      "name": "Ad-libs",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Ad-libs - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "anthemic-vocals",
+      "name": "Anthemic Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Anthemic Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "background-vocals",
+      "name": "Background Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Background Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "backing-vocals",
+      "name": "Backing Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Backing Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "baritone-vocal",
+      "name": "Baritone Vocal",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Baritone Vocal - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "belting-vocals",
+      "name": "Belting Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Belting Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "big-chorus-vocals",
+      "name": "Big Chorus Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Big Chorus Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "breathy-vocals",
+      "name": "Breathy Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Breathy Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "bright-voice",
+      "name": "Bright Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Bright Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "call-and-response",
+      "name": "Call and Response",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Call and Response - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "chest-voice",
+      "name": "Chest Voice",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Chest Voice - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "clean-pop-vocal",
+      "name": "Clean Pop Vocal",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Clean Pop Vocal - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "clear-voice",
+      "name": "Clear Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Clear Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "close-mic-vocals",
+      "name": "Close-mic Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Close-mic Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "controlled-vibrato",
+      "name": "Controlled Vibrato",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Controlled Vibrato - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "crooning",
+      "name": "Crooning",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Crooning - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "dark-voice",
+      "name": "Dark Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Dark Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "deep-voice",
+      "name": "Deep Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Deep Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "falsetto",
+      "name": "Falsetto",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Falsetto - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fast-rap",
+      "name": "Fast Rap",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Fast Rap - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "female-vocals",
+      "name": "Female Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Female Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "fry-screams",
+      "name": "Fry Screams",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Fry Screams - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gang-vocals",
+      "name": "Gang Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Gang Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gentle-vibrato",
+      "name": "Gentle Vibrato",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Gentle Vibrato - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gentle-vocals",
+      "name": "Gentle Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Gentle Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gravelly-voice",
+      "name": "Gravelly Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Gravelly Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "gritty-vocals",
+      "name": "Gritty Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Gritty Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "group-vocals",
+      "name": "Group Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Group Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "growls",
+      "name": "Growls",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Growls - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "harmonies",
+      "name": "Harmonies",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Harmonies - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "harsh-vocals",
+      "name": "Harsh Vocals",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Harsh Vocals - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "head-voice",
+      "name": "Head Voice",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Head Voice - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "high-voice",
+      "name": "High Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "High Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "intimate-vocals",
+      "name": "Intimate Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Intimate Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "lead-vocals",
+      "name": "Lead Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Lead Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "legato-vocals",
+      "name": "Legato Vocals",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Legato Vocals - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "male-vocals",
+      "name": "Male Vocals",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Male Vocals - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "melisma",
+      "name": "Melisma",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Melisma - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "melodic-rap",
+      "name": "Melodic Rap",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Melodic Rap - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "mixed-voice",
+      "name": "Mixed Voice",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Mixed Voice - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Narrator - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "no-vibrato",
+      "name": "No Vibrato",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "No Vibrato - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "powerful-vocals",
+      "name": "Powerful Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Powerful Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rap-vocals",
+      "name": "Rap Vocals",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Rap Vocals - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "rapping",
+      "name": "Rapping",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Rapping - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "raspy-voice",
+      "name": "Raspy Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Raspy Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "scat-singing",
+      "name": "Scat Singing",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Scat Singing - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "screamed-vocals",
+      "name": "Screamed Vocals",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Screamed Vocals - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "smooth-vocals",
+      "name": "Smooth Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Smooth Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soft-vocals",
+      "name": "Soft Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Soft Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "soulful-vocals",
+      "name": "Soulful Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Soulful Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "spoken-word",
+      "name": "Spoken Word",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Spoken Word - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "staccato-vocals",
+      "name": "Staccato Vocals",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Staccato Vocals - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "storytelling-vocal",
+      "name": "Storytelling Vocal",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Storytelling Vocal - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "tenor-vocal",
+      "name": "Tenor Vocal",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Tenor Vocal - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vibrato",
+      "name": "Vibrato",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Vibrato - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vocal-duet",
+      "name": "Vocal Duet",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Vocal Duet - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vocal-runs",
+      "name": "Vocal Runs",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Vocal Runs - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "vocoder",
+      "name": "Vocoder",
+      "category": "vocals",
+      "subcategory": "Style & technique",
+      "description": "Vocoder - Style & technique",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "warm-voice",
+      "name": "Warm Voice",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Warm Voice - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "whispered-vocals",
+      "name": "Whispered Vocals",
+      "category": "vocals",
+      "subcategory": "Tone & character",
+      "description": "Whispered Vocals - Tone & character",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    },
+    {
+      "id": "whispers",
+      "name": "Whispers",
+      "category": "vocals",
+      "subcategory": "Role & presence",
+      "description": "Whispers - Role & presence",
+      "usage": "both",
+      "examples": [],
+      "metadata": {}
+    }
+  ]
+}
