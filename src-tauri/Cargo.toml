@@ -1,0 +1,22 @@
+[package]
+name = "suno-assistant"
+version = "0.1.0"
+description = "Suno Prompt Architect - AI-powered prompt builder for Suno"
+authors = ["you"]
+license = ""
+repository = ""
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[build-dependencies]
+tauri-build = { version = "2.0", features = [] }
+
+[dependencies]
+tauri = { version = "2.2", features = [] }
+tauri-plugin-clipboard-manager = "2.0"
+tauri-plugin-dialog = "2.0"
+tauri-plugin-shell = "2.0"
+tauri-plugin-store = "2.0"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

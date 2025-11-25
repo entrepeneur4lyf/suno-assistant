@@ -1,0 +1,240 @@
+[
+  {
+    "id": "pop",
+    "name": "Pop",
+    "category": "genre",
+    "description": "Popular music characterized by catchy melodies, simple song structures, and mass appeal",
+    "usage": "style",
+    "synonyms": ["pop music", "mainstream pop"],
+    "examples": ["upbeat pop", "pop ballad", "synth pop"],
+    "co_occurrence": {
+      "strong": ["catchy", "upbeat", "radio-friendly", "commercial"],
+      "avoid": ["harsh", "experimental", "atonal"]
+    },
+    "metadata": {
+      "energy": 7,
+      "complexity": 4,
+      "era": "contemporary"
+    }
+  },
+  {
+    "id": "rock",
+    "name": "Rock",
+    "category": "genre",
+    "description": "Genre featuring electric guitars, drums, and strong rhythms",
+    "usage": "style",
+    "synonyms": ["rock music"],
+    "examples": ["classic rock", "hard rock", "alternative rock"],
+    "co_occurrence": {
+      "strong": ["guitar-driven", "energetic", "powerful", "distorted"],
+      "avoid": ["minimalist", "acoustic only"]
+    },
+    "metadata": {
+      "energy": 8,
+      "complexity": 6
+    }
+  },
+  {
+    "id": "electronic",
+    "name": "Electronic",
+    "category": "genre",
+    "description": "Music created primarily using electronic instruments and technology",
+    "usage": "style",
+    "synonyms": ["EDM", "electronic music"],
+    "examples": ["house", "techno", "dubstep", "synthwave"],
+    "co_occurrence": {
+      "strong": ["synth", "bass-heavy", "digital", "produced"],
+      "avoid": ["acoustic", "organic"]
+    },
+    "metadata": {
+      "energy": 8,
+      "complexity": 7
+    }
+  },
+  {
+    "id": "upbeat",
+    "name": "Upbeat",
+    "category": "mood",
+    "description": "Positive, energetic, and cheerful mood",
+    "usage": "both",
+    "synonyms": ["cheerful", "happy", "positive"],
+    "co_occurrence": {
+      "strong": ["fast", "major-key", "bright"],
+      "avoid": ["dark", "melancholic", "slow"]
+    },
+    "metadata": {
+      "energy": 8
+    }
+  },
+  {
+    "id": "melancholic",
+    "name": "Melancholic",
+    "category": "mood",
+    "description": "Sad, reflective, and emotional mood",
+    "usage": "both",
+    "synonyms": ["sad", "emotional", "somber"],
+    "co_occurrence": {
+      "strong": ["slow", "minor-key", "emotional"],
+      "avoid": ["upbeat", "cheerful", "energetic"]
+    },
+    "metadata": {
+      "energy": 3
+    }
+  },
+  {
+    "id": "aggressive",
+    "name": "Aggressive",
+    "category": "energy",
+    "description": "Intense, forceful, and powerful energy",
+    "usage": "style",
+    "synonyms": ["intense", "powerful", "forceful"],
+    "co_occurrence": {
+      "strong": ["distorted", "heavy", "fast"],
+      "avoid": ["gentle", "soft", "minimal"]
+    },
+    "metadata": {
+      "energy": 10
+    }
+  },
+  {
+    "id": "guitar",
+    "name": "Guitar",
+    "category": "instruments",
+    "description": "Prominent guitar instrumentation",
+    "usage": "style",
+    "synonyms": ["electric guitar", "acoustic guitar"],
+    "examples": ["guitar solo", "guitar-driven", "fingerstyle guitar"],
+    "co_occurrence": {
+      "strong": ["rock", "blues", "folk"],
+      "avoid": []
+    }
+  },
+  {
+    "id": "synth",
+    "name": "Synthesizer",
+    "category": "instruments",
+    "description": "Electronic synthesizer sounds",
+    "usage": "style",
+    "synonyms": ["synth", "electronic keys"],
+    "examples": ["analog synth", "digital synth", "synth pads"],
+    "co_occurrence": {
+      "strong": ["electronic", "pop", "retro"],
+      "avoid": []
+    }
+  },
+  {
+    "id": "male-vocals",
+    "name": "Male Vocals",
+    "category": "vocals",
+    "description": "Male voice as lead or prominent vocal",
+    "usage": "both",
+    "synonyms": ["male voice", "male singer"],
+    "co_occurrence": {
+      "strong": [],
+      "avoid": ["female-vocals"]
+    }
+  },
+  {
+    "id": "female-vocals",
+    "name": "Female Vocals",
+    "category": "vocals",
+    "description": "Female voice as lead or prominent vocal",
+    "usage": "both",
+    "synonyms": ["female voice", "female singer"],
+    "co_occurrence": {
+      "strong": [],
+      "avoid": ["male-vocals"]
+    }
+  },
+  {
+    "id": "verse",
+    "name": "Verse",
+    "category": "structure",
+    "description": "Main narrative section of a song",
+    "usage": "lyrics",
+    "synonyms": [],
+    "examples": ["[Verse]", "[Verse 1]", "[Verse 2]"]
+  },
+  {
+    "id": "chorus",
+    "name": "Chorus",
+    "category": "structure",
+    "description": "Repeated main hook or refrain of a song",
+    "usage": "lyrics",
+    "synonyms": ["refrain", "hook"],
+    "examples": ["[Chorus]"]
+  },
+  {
+    "id": "bridge",
+    "name": "Bridge",
+    "category": "structure",
+    "description": "Contrasting section that provides variety",
+    "usage": "lyrics",
+    "synonyms": [],
+    "examples": ["[Bridge]"]
+  },
+  {
+    "id": "fast",
+    "name": "Fast Tempo",
+    "category": "tempo",
+    "description": "Quick, energetic tempo (140+ BPM)",
+    "usage": "style",
+    "synonyms": ["quick", "uptempo", "rapid"],
+    "co_occurrence": {
+      "strong": ["energetic", "upbeat"],
+      "avoid": ["slow", "ballad"]
+    },
+    "metadata": {
+      "energy": 8
+    }
+  },
+  {
+    "id": "slow",
+    "name": "Slow Tempo",
+    "category": "tempo",
+    "description": "Deliberate, relaxed tempo (60-80 BPM)",
+    "usage": "style",
+    "synonyms": ["ballad tempo", "downtempo"],
+    "co_occurrence": {
+      "strong": ["emotional", "melancholic"],
+      "avoid": ["fast", "energetic"]
+    },
+    "metadata": {
+      "energy": 3
+    }
+  },
+  {
+    "id": "reverb",
+    "name": "Reverb",
+    "category": "production",
+    "description": "Spacious, echo-like effect adding depth",
+    "usage": "style",
+    "synonyms": ["echo", "spatial effects"],
+    "examples": ["heavy reverb", "cathedral reverb", "plate reverb"]
+  },
+  {
+    "id": "distortion",
+    "name": "Distortion",
+    "category": "production",
+    "description": "Gritty, overdriven sound effect",
+    "usage": "style",
+    "synonyms": ["overdrive", "fuzz"],
+    "examples": ["guitar distortion", "vocal distortion"],
+    "co_occurrence": {
+      "strong": ["rock", "metal", "aggressive"],
+      "avoid": ["clean", "pristine"]
+    }
+  },
+  {
+    "id": "clean-production",
+    "name": "Clean Production",
+    "category": "production",
+    "description": "Polished, professional sound quality",
+    "usage": "style",
+    "synonyms": ["polished", "professional", "pristine"],
+    "co_occurrence": {
+      "strong": ["pop", "commercial"],
+      "avoid": ["lo-fi", "raw"]
+    }
+  }
+]
